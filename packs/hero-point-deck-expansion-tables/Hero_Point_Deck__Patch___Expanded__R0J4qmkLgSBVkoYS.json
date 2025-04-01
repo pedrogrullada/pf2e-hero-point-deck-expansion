@@ -1,0 +1,1211 @@
+{
+  "description": "<p>A table including the module's patch for the original Hero Point Deck, in addition to an expansion with several extra cards.</p>",
+  "displayRoll": true,
+  "formula": "1d79",
+  "img": "icons/svg/d20-grey.svg",
+  "name": "Hero Point Deck (Patch + Expanded)",
+  "ownership": {
+    "default": 0,
+    "zi8YqZ1aO7op2Zk7": 3
+  },
+  "replacement": true,
+  "results": [
+    {
+      "_id": "jDDTMCTfeJotdH7k",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        1,
+        1
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.quxPxuMub8k6abzN]{Ancestral Might}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.jDDTMCTfeJotdH7k"
+    },
+    {
+      "_id": "itz43q5LBVfOHjbC",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        2,
+        2
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.7uERHpfJplGtYf8w]{Aura of Protection}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.itz43q5LBVfOHjbC"
+    },
+    {
+      "_id": "5GjGp3sbB1NT4K9c",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        3,
+        3
+      ],
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.gI02DMKytCyoYRZk.JournalEntryPage.Q0VHx9WidEcJkZhB]{Rage and Fury}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.5GjGp3sbB1NT4K9c"
+    },
+    {
+      "_id": "0fC0EprmBrp3oEs4",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        4,
+        4
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.OnB94Y7wYE9j0ict]{I Hope This Works}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.0fC0EprmBrp3oEs4"
+    },
+    {
+      "_id": "DEbcObF09bguVWno",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        5,
+        5
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.TU21DvdpQG7U2Q9Y]{Endure the Onslaught}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.DEbcObF09bguVWno"
+    },
+    {
+      "_id": "8PJgTJKp9QcHOiP5",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        6,
+        6
+      ],
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.gI02DMKytCyoYRZk.JournalEntryPage.yYRj0xk5LrymY4HH]{Battle Cry}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.8PJgTJKp9QcHOiP5"
+    },
+    {
+      "_id": "3804GmribwcHR3NE",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        7,
+        7
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.LafJ1PXfnR4Ogyzh]{Catch your Breath}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.3804GmribwcHR3NE"
+    },
+    {
+      "_id": "HaRROkB0sAlTGQFD",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        8,
+        8
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.jMhD1Z6aagYAYCnb]{Last Stand}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.HaRROkB0sAlTGQFD"
+    },
+    {
+      "_id": "ZLd5DzNOKo6QhoNC",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        9,
+        9
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.j6hsF2TWFtGMyClW]{Shoot Through}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.ZLd5DzNOKo6QhoNC"
+    },
+    {
+      "_id": "xxRXynpSrakpIGkw",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        10,
+        10
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.E4aI0BTV9ATxfjGd]{Reckless Charge}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.xxRXynpSrakpIGkw"
+    },
+    {
+      "_id": "fuoDiMMF7JCfxxVR",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        11,
+        11
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.6xnJaS3qRZGdDHtr]{Roll Back}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.fuoDiMMF7JCfxxVR"
+    },
+    {
+      "_id": "8vOeM2QgKPxMY47X",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        12,
+        12
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.LaNM3BfoZUG2B39v]{Warding Sign}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.8vOeM2QgKPxMY47X"
+    },
+    {
+      "_id": "KjYzdVj9f99lINdK",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        13,
+        13
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.spzRl5CS4vnvcrm5]{Called Foe}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.KjYzdVj9f99lINdK"
+    },
+    {
+      "_id": "T16e5iE8kGw9BU1z",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        14,
+        14
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.a68Phr1qsqVRPMVp]{Class Might}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.T16e5iE8kGw9BU1z"
+    },
+    {
+      "_id": "bIopmyLRg7dINuLX",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        15,
+        15
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.FgA086C40VR9mzNr]{Hold the Line}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.bIopmyLRg7dINuLX"
+    },
+    {
+      "_id": "E1cjgAqFZIzCjDuU",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        16,
+        16
+      ],
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.gI02DMKytCyoYRZk.JournalEntryPage.Gu6CHAPMigpV9awj]{Tumble Through}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.E1cjgAqFZIzCjDuU"
+    },
+    {
+      "_id": "T3PbUUrya639eH4l",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        17,
+        17
+      ],
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.gI02DMKytCyoYRZk.JournalEntryPage.D6hqfmZUksRvqNFR]{Fluid Motion}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.T3PbUUrya639eH4l"
+    },
+    {
+      "_id": "vJ9wEkarCEQNNMD6",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        18,
+        18
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.gmwyfTlk0BGZLdCt]{Magical Reverberation}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.vJ9wEkarCEQNNMD6"
+    },
+    {
+      "_id": "UOh7zztCDTGLSGOf",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        19,
+        19
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.EZZxz9jeEB0N3FPZ]{Spark of Courage}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.UOh7zztCDTGLSGOf"
+    },
+    {
+      "_id": "7Dv1PrDRDST2qwaA",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        20,
+        20
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.lLdAvaOo1rLLg5b4]{Pierce Resistance}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.7Dv1PrDRDST2qwaA"
+    },
+    {
+      "_id": "hZ5VxnL7RSZ8Gllb",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        21,
+        21
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.zcBCxlvPCpmjt5IS]{Press On}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.hZ5VxnL7RSZ8Gllb"
+    },
+    {
+      "_id": "vtCHxzKgcwdcnNWc",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        22,
+        22
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.k0ue81dFKH4OKxed]{Impossible Shot}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.vtCHxzKgcwdcnNWc"
+    },
+    {
+      "_id": "Un1uTUtcQoqyVdbC",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        23,
+        23
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.ftdrUGjW8A4TPkMa]{Protect the Innocent}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.Un1uTUtcQoqyVdbC"
+    },
+    {
+      "_id": "PZI2ZCFv4End9rnT",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        24,
+        24
+      ],
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.gI02DMKytCyoYRZk.JournalEntryPage.Ttn2H0JHJVksChGi]{Healing Prayer}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.PZI2ZCFv4End9rnT"
+    },
+    {
+      "_id": "7EGqtN6f6IKWQhL0",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        25,
+        25
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.jIs5mtRaqG0aGQ8u]{Make Way!}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.7EGqtN6f6IKWQhL0"
+    },
+    {
+      "_id": "JslVaXF3LlCdDWK1",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        26,
+        26
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.XHSXMcRaMOsbjoO1]{Rending Swipe}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.JslVaXF3LlCdDWK1"
+    },
+    {
+      "_id": "wjx05h2N0vtVIsrI",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        27,
+        27
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.QUhXVsUDujUTYz7F]{Stay in the Fight}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.wjx05h2N0vtVIsrI"
+    },
+    {
+      "_id": "0F80zKMMeMah5yXz",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        28,
+        28
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.pS87Zh4QJnu0p8ES]{Strike True}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.0F80zKMMeMah5yXz"
+    },
+    {
+      "_id": "xKv3lBtBpopBs8LZ",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        29,
+        29
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.xsdJIpd9NRLpRZT2]{Drain Power}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.xKv3lBtBpopBs8LZ"
+    },
+    {
+      "_id": "KkfagR1YW3VVnZZE",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        30,
+        30
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.Y20GMjqVbTvGZ87k]{Shake it Off}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.KkfagR1YW3VVnZZE"
+    },
+    {
+      "_id": "tEYvpcvZbbtRO6we",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        31,
+        31
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.O2hME2ilgN9BcEA4]{Dive Out of Danger}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.tEYvpcvZbbtRO6we"
+    },
+    {
+      "_id": "sheV3bji8b9hreRR",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        32,
+        32
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.lJe2uRM1wNJw4Mgr]{Push Through the Pain}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.sheV3bji8b9hreRR"
+    },
+    {
+      "_id": "5BIuFOaMT8cLjIv6",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        33,
+        33
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.g5G4unm9tbEDu3pZ]{Hasty Block}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.5BIuFOaMT8cLjIv6"
+    },
+    {
+      "_id": "yWnmUKmaoOSfcLtS",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        34,
+        34
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.tUu3x2iHtOUqqWUc]{Distract Foe}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.yWnmUKmaoOSfcLtS"
+    },
+    {
+      "_id": "tnZaNlT7JRrUOQgj",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        35,
+        35
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.AeGcoQNaZ1BUmWvu]{Last Second Sidestep}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.tnZaNlT7JRrUOQgj"
+    },
+    {
+      "_id": "AHowCrzZXoJUeTSI",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        36,
+        36
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.ox9mFGY50NEzRR12]{Reverse Strike}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.AHowCrzZXoJUeTSI"
+    },
+    {
+      "_id": "NXX1rmS2uy4a7m6I",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        37,
+        37
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.P3mSUWRvCCwEouB0]{Critical Moment}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.NXX1rmS2uy4a7m6I"
+    },
+    {
+      "_id": "Bz6cbtlVOjTCk7X7",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        38,
+        38
+      ],
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.gI02DMKytCyoYRZk.JournalEntryPage.gX1rPa5d4HZZ7PjW]{Channel Life Force}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.Bz6cbtlVOjTCk7X7"
+    },
+    {
+      "_id": "yM9S7QdJME96AIWL",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        39,
+        39
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.bb4nv44qEdpt0pLq]{Stoke the Magical Flame}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.yM9S7QdJME96AIWL"
+    },
+    {
+      "_id": "Vmi14hTF8fV0pJ5i",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        40,
+        40
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.d15Zjdqplmj7ZTKK]{Desperate Swing}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.Vmi14hTF8fV0pJ5i"
+    },
+    {
+      "_id": "fO5EiKSUPFshS4J4",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        41,
+        41
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.eZUSi5q5NnEvCDEk]{Cut Through the Fog}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.fO5EiKSUPFshS4J4"
+    },
+    {
+      "_id": "h1szC0OEzEz9hXg1",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        42,
+        42
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.8w220Bvj6W2Ui8Ae]{Surge of Speed}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.h1szC0OEzEz9hXg1"
+    },
+    {
+      "_id": "7P8WEldT3USfSpOb",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        43,
+        43
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.ksg8D5ssP6WGwGqi]{Opportune Distraction}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.7P8WEldT3USfSpOb"
+    },
+    {
+      "_id": "jkmYaAWNdvQyQlsl",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        44,
+        44
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.zX28AGU1k5sO2Tpd]{Run and Shoot}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.jkmYaAWNdvQyQlsl"
+    },
+    {
+      "_id": "06FKjklJ6hiVcawH",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        45,
+        45
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.EGa7oNFMSLkvkQjL]{Flash of Insight}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.06FKjklJ6hiVcawH"
+    },
+    {
+      "_id": "GmJ52rna1r99Jmte",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        46,
+        46
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.VSZGUtcr5NGNPtlB]{Rampage}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.GmJ52rna1r99Jmte"
+    },
+    {
+      "_id": "0SYj0crqTiDg2Pqc",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        47,
+        47
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.GqZLaGQDNe41saZ7]{Misdirected Attack}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.0SYj0crqTiDg2Pqc"
+    },
+    {
+      "_id": "2sEGCoY14mavj3T1",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        48,
+        48
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.MSdKfjoNBj7PjEoo]{Grazing Blow}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.2sEGCoY14mavj3T1"
+    },
+    {
+      "_id": "aZHbri54rMaXaAeT",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        49,
+        49
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.Fq1KEUyv0zBp5nMV]{Last Ounce of Strength}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.aZHbri54rMaXaAeT"
+    },
+    {
+      "_id": "nxcrb0JxVgYpbHQu",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        50,
+        50
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.dCd0YXLVx0DQwitm]{Tuck and Roll}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.nxcrb0JxVgYpbHQu"
+    },
+    {
+      "_id": "a10PkuR5DGXXvLXc",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        51,
+        51
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.oa0wVDfT3dbWwNDf]{Surge of Magic}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.a10PkuR5DGXXvLXc"
+    },
+    {
+      "_id": "DG8EUPA7qagE0igX",
+      "documentId": null,
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        52,
+        52
+      ],
+      "text": "@UUID[Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.jHn1m1r95YgMQSvM]{Daring Attempt}",
+      "type": "text",
+      "weight": 1,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.DG8EUPA7qagE0igX"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "_id": "TkCdtCOjH3LKzSDn",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.zONyoexx01okt002]{Temptation of Heroics}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.TkCdtCOjH3LKzSDn"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "_id": "cuB2l3CicwLckwwf",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.3KJKsVFJbGeoAmwG]{If I Were You}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.cuB2l3CicwLckwwf"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "_id": "qDAoaOsRdEO4xBhP",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.igFvuHJg2QbKeQfq]{One More}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.qDAoaOsRdEO4xBhP"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "_id": "Y1xT5Br1S8VP6AuG",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.i0cBhE9Vo68nIPlF]{Baton Pass}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.Y1xT5Br1S8VP6AuG"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "_id": "YN6OIa0zcIBxwSYU",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.NCQCi4oQWLv3kvAo]{Get a Hold of Yourself!}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.YN6OIa0zcIBxwSYU"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "_id": "4HGgJi5vYsLEgRvI",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.80TX1oxMlmOaRUWU]{Convenient Consumable}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.4HGgJi5vYsLEgRvI"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "_id": "5sQRtSBh9BwuLfCl",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.a9IeKeYOVuPMcGVx]{Crushing Critical}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.5sQRtSBh9BwuLfCl"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "_id": "LUxk9ZWacFSt14A0",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.D4GCXaqEh8eaqmJJ]{Me First!}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.LUxk9ZWacFSt14A0"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "_id": "D4BjUWLcwjUChY1j",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.YZBlyryDT6y7vYmt]{Rapid Reaction}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.D4BjUWLcwjUChY1j"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "_id": "crw2HPalD7w7RYzu",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.cgA7xrrb0IEnQCLv]{Always Prepared}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.crw2HPalD7w7RYzu"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "_id": "d6JV45fQxnHUIoA7",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.wdFR8w0PN7bqpWmJ]{Improvised Incantation}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.d6JV45fQxnHUIoA7"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "_id": "baTNck8nFRkPUaSQ",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.q86ta3UvKd6N44BS]{Advanced Strategy}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.baTNck8nFRkPUaSQ"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "_id": "vtTvB7ze68Ct0sv8",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.fTZEPNM7yUj3ZsYj]{Sliding Sweep}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.vtTvB7ze68Ct0sv8"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "_id": "h1uTg0adYHTNMoPH",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.bzDw1uZ6yibBHpPn]{Form Up!}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.h1uTg0adYHTNMoPH"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "_id": "G2GgoC5hxtQJ1746",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.q3wdVOY6BmVan5Yg]{Key to Victory}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.G2GgoC5hxtQJ1746"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "_id": "HXOoP7XqO9QsZVTG",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.Of1MykhHbIvXVM3m]{Don't Underestimate Us}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.HXOoP7XqO9QsZVTG"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "_id": "C8VhwTui6i9kdIT8",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.25q59mrMaHW2kQKl]{Heroic Counterspell}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.C8VhwTui6i9kdIT8"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "_id": "zAFZUemBrNfVhCvD",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.tHYKNdB57tezdHYc]{Battle Augury}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.zAFZUemBrNfVhCvD"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "_id": "a2T0h17E20YWEhYJ",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.jvJaIYbGfwNpcH73]{Curse of Temporal Discounting}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.a2T0h17E20YWEhYJ"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "_id": "iK9Gj0uPnMp9yOIG",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.tnTKdNTMFTkPVm7r]{Instinctual Senses}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.iK9Gj0uPnMp9yOIG"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "_id": "gZoArq7X5YshEAZ6",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.WcKJpistQqMRWAna]{Defensive Movement}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.gZoArq7X5YshEAZ6"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "_id": "njt94ozwZoNdO9D4",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.I0i2ppdrn2VwUzoq]{Expansive Area}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.njt94ozwZoNdO9D4"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "_id": "ofjtd3N28SXe4iNR",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.wypnEsREC16fSFZg]{Extensive Grasp}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.ofjtd3N28SXe4iNR"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "_id": "2ObYUqFWaCkPDYaY",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.6LEzmwpwFXqhYfQV]{Split Spell}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.2ObYUqFWaCkPDYaY"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "_id": "x8dMCFwSdHcE61Rs",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.CUZvfnJsyY6qmmGu]{Reversal}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.x8dMCFwSdHcE61Rs"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "_id": "ePDwkdxYYLcgN5j4",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.0iFGlxYMRxKdldIc]{Charismatic Speech}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.ePDwkdxYYLcgN5j4"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "_id": "vrhMEdcmGVF74PE0",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.xkAXUCIWbZSDzitQ]{Ambush}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.vrhMEdcmGVF74PE0"
+    }
+  ],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1"
+  },
+  "folder": null,
+  "flags": {},
+  "_id": "R0J4qmkLgSBVkoYS",
+  "sort": 0,
+  "_key": "!tables!R0J4qmkLgSBVkoYS"
+}

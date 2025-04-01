@@ -1,0 +1,81 @@
+{
+  "name": "Effect: Baton Pass",
+  "type": "effect",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Granted by @UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.i0cBhE9Vo68nIPlF]{Baton Pass}</p><p>You gain a circumstance bonus to a check</p>"
+    },
+    "rules": [
+      {
+        "key": "ChoiceSet",
+        "choices": {
+          "config": "actionsNumber"
+        },
+        "flag": "batonPass"
+      },
+      {
+        "key": "FlatModifier",
+        "selector": "check",
+        "value": "1 + @item.flags.pf2e.rulesSelections.batonPass",
+        "type": "circumstance",
+        "removeAfterRoll": "if-enabled",
+        "predicate": [
+          "baton-pass"
+        ]
+      }
+    ],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": []
+    },
+    "publication": {
+      "title": "PF2e Hero Point Deck Expansion",
+      "authors": "",
+      "license": "OGL",
+      "remaster": true
+    },
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": -1,
+      "unit": "unlimited",
+      "expiry": null,
+      "sustained": false
+    },
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "tokenIcon": {
+      "show": true
+    },
+    "badge": null,
+    "context": null,
+    "unidentified": false
+  },
+  "_id": "ouNWLIg54qdlsaeZ",
+  "img": "icons/sundries/gaming/playing-cards-brown.webp",
+  "folder": null,
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "clGYHR8vD67PtmKk": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.7.2"
+  },
+  "_key": "!items!ouNWLIg54qdlsaeZ"
+}

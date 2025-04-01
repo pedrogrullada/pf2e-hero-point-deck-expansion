@@ -1,0 +1,941 @@
+{
+  "name": "Hero Point Deck Expansion",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Temptation of Heroics",
+      "type": "text",
+      "_id": "zONyoexx01okt002",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play at the beginning of your turn while you're @UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{Dying}.</p><hr /><p>As you wander the limbo between life and death, you're tempted by a trickster with a true heroic recovery. Your recovery check uses the following results instead.</p><hr /><p><strong>Critical Success </strong>You regain a number of Hit Points equal to @Damage[(2*@actor.level)[healing]]{twice your level}, you become @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Quickened} for this turn, and can take your actions immediately. The extra action must be used to perform a basic move action, or Interact to pick up or draw an item.</p><p><strong>Success </strong>As success, but the Hit Points you regain are equal to @Damage[(@actor.level)[healing]]{your level}.</p><p><strong>Failure</strong> You become @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{Doomed 1}.</p><p><strong>Critical Failure</strong> You become @UUID[Compendium.pf2e.conditionitems.3uh1r86TzbQvosxv]{Doomed 2}.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "8uBJxjNukwwp5BWW": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.zONyoexx01okt002"
+    },
+    {
+      "sort": 200000,
+      "name": "If I Were You",
+      "type": "text",
+      "_id": "3KJKsVFJbGeoAmwG",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when you succeed a saving throw that an ally just failed.</p><hr /><p>You daydream for a moment what you would do in your ally's predicament, and that dream becomes reality! You swap your natural result on the d20 with your ally's, potentially changing both of your results.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "8uBJxjNukwwp5BWW": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.3KJKsVFJbGeoAmwG"
+    },
+    {
+      "sort": 300000,
+      "name": "Baton Pass",
+      "type": "text",
+      "_id": "i0cBhE9Vo68nIPlF",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><span style=\"font-family:Signika, sans-serif\">Play when you critically hit an enemy or trigger an enemy's weakness.</span></p><hr /><p>You give your ally an opportunity to follow up your success! Choose an ally who is able to act. Their initiative position is moved to directly after you. Your turn ends, and you grant that ally a circumstance bonus to a check of their choice equal to 1 + the number of actions you had left. This benefit lasts until the end of their turn.</p><p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-effects.Item.ouNWLIg54qdlsaeZ]{Effect: Baton Pass}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "8uBJxjNukwwp5BWW": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.i0cBhE9Vo68nIPlF"
+    },
+    {
+      "sort": 250000,
+      "name": "One More",
+      "type": "text",
+      "_id": "igFvuHJg2QbKeQfq",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><span style=\"font-family:Signika, sans-serif\">Play when you critically hit an enemy or trigger an enemy's weakness.</span></p><hr /><p>You gain an additional action which can be used to used to Strike, use a move action, or an Interact action. The triggering weakness, if any, cannot be exploited again this turn.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "8uBJxjNukwwp5BWW": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.igFvuHJg2QbKeQfq"
+    },
+    {
+      "sort": 400000,
+      "name": "Get a Hold of Yourself!",
+      "type": "text",
+      "_id": "NCQCi4oQWLv3kvAo",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when a conscious ally within your Speed becomes inflicted with a harmful condition.</p><hr /><p>You Stride to a space adjacent to that ally, slapping them across the face, shaking both their shoulders, or just giving them a piece of your mind. You attempt to counteract the triggering condition using an unarmed attack roll, or a skill check at the GM's discretion, such as Diplomacy to rally them up, or Religion to pray to your deity.</p><hr /><p><strong>Special </strong>You can use this card while Burrowing, Climbing, Flying or Swimming instead of Striding if you have the corresponding movement type.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "8uBJxjNukwwp5BWW": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.NCQCi4oQWLv3kvAo"
+    },
+    {
+      "sort": 450000,
+      "name": "Convenient Consumable",
+      "type": "text",
+      "_id": "80TX1oxMlmOaRUWU",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play during your turn while you're able to use manipulate actions.</p><hr /><p>By planning ahead, you're able to have the right item at the right time. You can Interact to draw a consumable item from your or your allies' inventories as though it were on your own.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "8uBJxjNukwwp5BWW": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.80TX1oxMlmOaRUWU"
+    },
+    {
+      "sort": 600000,
+      "name": "Crushing Critical",
+      "type": "text",
+      "_id": "a9IeKeYOVuPMcGVx",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when roll damage as a result of a critical success of yours, or an enemies' critical failure.</p><hr /><p>You push yourself to inflict even more punishment onto your foe, at the expense of your own safety. You can roll damage again and use the higher of the two results. If you use the new roll, you become @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1} for 1 round as a result of this reckless maneuver.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "8uBJxjNukwwp5BWW": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.a9IeKeYOVuPMcGVx"
+    },
+    {
+      "sort": 700000,
+      "name": "Me First!",
+      "type": "text",
+      "_id": "D4GCXaqEh8eaqmJJ",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when an enemy is about to take their turn directly before yours.</p><hr /><p>With a sudden rush of energy, you cut ahead of your foe. You take your turn before the triggering enemy, moving your initiative position accordingly. You become @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1} at the end of your turn from this overexertion.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "8uBJxjNukwwp5BWW": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.D4GCXaqEh8eaqmJJ"
+    },
+    {
+      "sort": 800000,
+      "name": "Rapid Reaction",
+      "type": "text",
+      "_id": "YZBlyryDT6y7vYmt",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when the trigger for one of your reactions is met.</p><hr /><p>You quickly seize an opportunity to intervene. You gain an additional reaction that you must spend immediately to use the reaction corresponding to the trigger.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "8uBJxjNukwwp5BWW": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.YZBlyryDT6y7vYmt"
+    },
+    {
+      "sort": 900000,
+      "name": "Always Prepared",
+      "type": "text",
+      "_id": "cgA7xrrb0IEnQCLv",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play during your turn while you can use manipulate actions, and you haven't played this card since the last time you were able to purchase goods.</p><hr /><p>You can produce an item as a 2-action activity to remove your backpack and draw the item as though you had the @UUID[Compendium.pf2e.feats-srd.Item.bh2jHyyYrkLMsIdX]{Prescient Planner} and @UUID[Compendium.pf2e.feats-srd.Item.lHFz4MmebvPqTb0A]{Prescient Consumable} feats, paying the costs as normal.</p><p>If you already have Prescient Planner, you can play this card even if you have used the feat since you last were able to purchase goods.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "8uBJxjNukwwp5BWW": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.cgA7xrrb0IEnQCLv"
+    },
+    {
+      "sort": 1200000,
+      "name": "Improvised Incantation",
+      "type": "text",
+      "_id": "wdFR8w0PN7bqpWmJ",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play during your turn while you have at least one spell slot left.</p><hr /><p>You reshape the energy harnessed for your spell at the last second. Select a common spell of a rank and tradition for which you have spell slots. You can spend a spell slot of the appropriate rank (including heightening) to Cast that Spell as though it was prepared or part of your repertoire.</p><p>After Casting the Spell, you are @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1} for 1 round, as your brain is scrambled by a strange magical feedback.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "8uBJxjNukwwp5BWW": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.wdFR8w0PN7bqpWmJ"
+    },
+    {
+      "sort": 1300000,
+      "name": "Advanced Strategy",
+      "type": "text",
+      "_id": "q86ta3UvKd6N44BS",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play at the start of your turn.</p><hr /><p>You @UUID[Compendium.pf2e.actionspf2e.Item.m0f2B7G9eaaTmhFL]{Devise a Stratagem}. If you don't already have Devise a Stratagem, you can't use Intelligence instead of your usual modifier when substituting the result of your attack roll.</p><hr /><p><strong>Special</strong> If you already have Devise a Stratagem, you can play this card to reroll the result of your d20 when using that ability, ignoring the usual restriction from the fortune trait. You must keep the new result.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "8uBJxjNukwwp5BWW": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.q86ta3UvKd6N44BS"
+    },
+    {
+      "sort": 1400000,
+      "name": "Sliding Sweep",
+      "type": "text",
+      "_id": "fTZEPNM7yUj3ZsYj",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play during your turn.</p><hr /><p>You attempt to Tumble Through a creature of your size or larger. If you critically succeed, that creature is knocked @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}, as you swiftly sweep them off the ground with your slide.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "clGYHR8vD67PtmKk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.fTZEPNM7yUj3ZsYj"
+    },
+    {
+      "sort": 1500000,
+      "name": "Form Up!",
+      "type": "text",
+      "_id": "bzDw1uZ6yibBHpPn",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when an encounter breaks out while you were @UUID[Compendium.pf2e.actionspf2e.Item.kV3XM0YJeS2KCSOb]{Scouting}.</p><hr /><p>With a quick command, you and your party get into a planned formation. You and all your allies gain their reaction, even if they normally wouldn't due to not having acted yet, and can choose to use that reaction immediately to perform a single Interact or move action.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "clGYHR8vD67PtmKk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.bzDw1uZ6yibBHpPn"
+    },
+    {
+      "sort": 1600000,
+      "name": "Key to Victory",
+      "type": "text",
+      "_id": "q3wdVOY6BmVan5Yg",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when an encounter breaks out while you were @UUID[Compendium.pf2e.actionspf2e.Item.EwgTZBWsc8qKaViP]{Investigating}.</p><hr /><p>You can Recall Knowledge. In addition to answering your question, the GM gives you one piece of information they deem instrumental to succeed in this encounter.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "clGYHR8vD67PtmKk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.q3wdVOY6BmVan5Yg"
+    },
+    {
+      "sort": 1700000,
+      "name": "Don't Underestimate Us",
+      "type": "text",
+      "_id": "Of1MykhHbIvXVM3m",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when an enemy critically succeeds a saving throw, or an attack roll.</p><hr /><p>Your foe's overconfidence allows you to exploit an opening. The enemy must reroll the triggering check and use the new result. If the result is a critical failure, it becomes a failure instead.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "clGYHR8vD67PtmKk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.Of1MykhHbIvXVM3m"
+    },
+    {
+      "sort": 1800000,
+      "name": "Heroic Counterspell",
+      "type": "text",
+      "_id": "25q59mrMaHW2kQKl",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when an enemy Casts a Spell, you have a reaction, and at least one spell slot available.</p><hr /><p>You spend a spell slot and as a reaction you attempt to @UUID[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.E4Q7EiSG18sIvFwg]{Counteract} the triggering spell, using the rank of your spent spell slot as your counteract rank. This effect has the trait corresponding to the tradition of the spell slot used. If you have the @UUID[Compendium.pf2e.feats-srd.Item.EpBG4CFMNSZQx7vI]{Counterspell} feat, your counteract rank counts as one higher.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "clGYHR8vD67PtmKk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.25q59mrMaHW2kQKl"
+    },
+    {
+      "sort": 1900000,
+      "name": "Battle Augury",
+      "type": "text",
+      "_id": "tHYKNdB57tezdHYc",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play at the start of your turn.</p><hr /><p>Be it the guidance of a deity, a strong gut feeling, or a vision from beyond, you gain a glimpse into the near future. You gain the effects of @UUID[Compendium.pf2e.spells-srd.Item.41TZEjhO6D1nWw2X]{Augury} in relation to a particular course of action up to 1 minute into the future. The GM doesn't roll the usual flat check, as this glimpse is close enough to the present.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "clGYHR8vD67PtmKk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.tHYKNdB57tezdHYc"
+    },
+    {
+      "sort": 2000000,
+      "name": "Curse of Temporal Discounting",
+      "type": "text",
+      "_id": "jvJaIYbGfwNpcH73",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when you roll a natural 1 on any check during an encounter.</p><hr /><p>You willingly accept an otherworldly curse offered by an agent of chaos witnessing your battle. The triggering result becomes a natural 20 instead. However, the next natural 20 you roll in an encounter becomes a natural 1. These effects are fortune and misfortune respectively, but can't be cancelled out by other such effects.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "clGYHR8vD67PtmKk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.jvJaIYbGfwNpcH73"
+    },
+    {
+      "sort": 2100000,
+      "name": "Instinctual Senses",
+      "type": "text",
+      "_id": "tnTKdNTMFTkPVm7r",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play at the start of your turn.</p><hr /><p>You close your eyes and focus on your other senses. For 1 round, you are @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded}, but you gain a precise sense between echolocation, tremorsense or wavesense, each with a range of 60 feet.</p><p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-effects.Item.hjPthRPNiLM49yc2]{Effect: Instinctual Senses}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "clGYHR8vD67PtmKk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.tnTKdNTMFTkPVm7r"
+    },
+    {
+      "sort": 2200000,
+      "name": "Expansive Area",
+      "type": "text",
+      "_id": "I0i2ppdrn2VwUzoq",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when you use a spell or impulse that has an area of effect.</p><hr /><p>You spread your energy over a wider region. You can use the @UUID[Compendium.pf2e.feats-srd.Item.FoWO4RnHRwfEIC7Q]{Widen Spell} spellshape with its usual action cost. If the triggering effect was an impulse, you can treat it as a spell for the purposes of applying the area adjustment.</p><hr /><p><strong>Special</strong> If you already have Widen Spell you can instead play this card to use it as a free action.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "clGYHR8vD67PtmKk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.I0i2ppdrn2VwUzoq"
+    },
+    {
+      "sort": 2300000,
+      "name": "Extensive Grasp",
+      "type": "text",
+      "_id": "wypnEsREC16fSFZg",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when you use a spell or impulse with a range.</p><hr /><p>You stretch your energy to reach beyond its usual horizon. You can use the @UUID[Compendium.pf2e.feats-srd.Item.BWomK7EVY0WXxWgh]{Reach Spell} spellshape with its usual action cost. If the triggering effect was an impulse, you can treat it as a spell for the purposes of applying the range adjustment.</p><hr /><p><strong>Special</strong> If you already have Reach Spell you can instead play this card to use it as a free action.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "clGYHR8vD67PtmKk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.wypnEsREC16fSFZg"
+    },
+    {
+      "sort": 2100000,
+      "name": "Defensive Movement",
+      "type": "text",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play at the start of your turn.</p><hr /><p>Until the end of your next turn, you can't be @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} while you're conscious. Additionally, your movement or manipulate actions do not trigger reactions.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "clGYHR8vD67PtmKk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": "Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.tnTKdNTMFTkPVm7r",
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_id": "WcKJpistQqMRWAna",
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.WcKJpistQqMRWAna"
+    },
+    {
+      "sort": 2400000,
+      "name": "Split Spell",
+      "type": "text",
+      "_id": "6LEzmwpwFXqhYfQV",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play at the start of your turn.</p><hr /><p>You dangerously harness more energy into your spell. If your next action is to Cast a Spell or use a different magical effect with a saving throw and a specific number of targets, increase the number of actions required by one. You can add one additional target, but their degree of success against the spell improves by one step.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "clGYHR8vD67PtmKk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.6LEzmwpwFXqhYfQV"
+    },
+    {
+      "sort": 2500000,
+      "name": "Reversal",
+      "type": "text",
+      "_id": "CUZvfnJsyY6qmmGu",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when you take physical damage from a critically successful melee Strike.</p><hr /><p>Despite your pain, you don't lose focus and immediately make the best out of a terrible situation. If the triggering damage would knock you @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious}, you remain at 1 HP instead and your @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Wounded} value increases by 1.</p><p>The triggering enemy receives a penalty depending on the type of damage dealt by its Strike. If there are multiple applicable damage types, choose one.</p><ul><li><strong>Bludgeoning</strong> The enemy overcommits to its attack and is knocked @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}.</li><li><strong>Piercing</strong> As you are pierced, you push through the pain and use it as an opportunity to keep your foe in place. The enemy is @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained} by you, even if you don't have a free hand, until the end of your next turn or until it Escapes.</li><li><strong>Slashing</strong> Your attacker's viciousness backfires, and the resulting blood splatter hits its eyes. The enemy is @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} until it uses a manipulate action to clear its eyes.</li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "clGYHR8vD67PtmKk": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.CUZvfnJsyY6qmmGu"
+    },
+    {
+      "sort": 2600000,
+      "name": "Charismatic Speech",
+      "type": "text",
+      "_id": "0iFGlxYMRxKdldIc",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when you would roll a Diplomacy check.</p><hr /><p>You automatically receive a result of 20 + your Diplomacy modifier on your check instead of rolling. This does not increase your degree of success like rolling a 20 would.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "zi8YqZ1aO7op2Zk7": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.10.2"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.0iFGlxYMRxKdldIc"
+    },
+    {
+      "sort": 2700000,
+      "name": "Ambush",
+      "type": "text",
+      "_id": "xkAXUCIWbZSDzitQ",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play at the beginning of your turn in an encounter where you used Stealth for initiative</p><hr /><p>You are @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Quickened} until the end of your turn. You can use the extra action only to Hide, Sneak, or Take Cover.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "zi8YqZ1aO7op2Zk7": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.10.2"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.xkAXUCIWbZSDzitQ"
+    }
+  ],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "8uBJxjNukwwp5BWW": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.7.1"
+  },
+  "_id": "ZS2Pb3JCu0HfJIhc",
+  "sort": 0,
+  "_key": "!journal!ZS2Pb3JCu0HfJIhc"
+}

@@ -1,0 +1,112 @@
+{
+  "img": "icons/sundries/gaming/playing-cards-brown.webp",
+  "name": "Effect: Instinctual Senses",
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Granted by @UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.tnTKdNTMFTkPVm7r]{Instinctual Senses}</p><p>You become blinded and gain either echolocation, tremorsense, or wavesense with a range of 60 feet.</p>"
+    },
+    "rules": [
+      {
+        "key": "GrantItem",
+        "uuid": "Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2",
+        "inMemoryOnly": true
+      },
+      {
+        "key": "ChoiceSet",
+        "choices": [
+          {
+            "label": "PF2E.Actor.Creature.Sense.Type.Echolocation",
+            "value": "echolocation"
+          },
+          {
+            "label": "PF2E.Actor.Creature.Sense.Type.Tremorsense",
+            "value": "tremorsense"
+          },
+          {
+            "label": "PF2E.Actor.Creature.Sense.Type.Wavesense",
+            "value": "wavesense"
+          }
+        ],
+        "rollOption": "instinctual-senses"
+      },
+      {
+        "key": "Sense",
+        "selector": "echolocation",
+        "range": 60,
+        "predicate": [
+          "instinctual-senses:echolocation"
+        ]
+      },
+      {
+        "key": "Sense",
+        "selector": "tremorsense",
+        "range": 60,
+        "predicate": [
+          "instinctual-senses:tremorsense"
+        ]
+      },
+      {
+        "key": "Sense",
+        "selector": "wavesense",
+        "range": 60,
+        "predicate": [
+          "instinctual-senses:wavesense"
+        ]
+      }
+    ],
+    "slug": "effect-rage-and-fury",
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null,
+      "previous": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": []
+    },
+    "publication": {
+      "title": "PF2e Hero Point Deck Expansion",
+      "authors": "",
+      "license": "OGL",
+      "remaster": true
+    },
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": 1,
+      "unit": "rounds",
+      "expiry": "turn-end",
+      "sustained": false
+    },
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "tokenIcon": {
+      "show": true
+    },
+    "badge": null,
+    "context": null,
+    "unidentified": false
+  },
+  "type": "effect",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1"
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "zi8YqZ1aO7op2Zk7": 3
+  },
+  "flags": {},
+  "_id": "hjPthRPNiLM49yc2",
+  "sort": 0,
+  "_key": "!items!hjPthRPNiLM49yc2"
+}

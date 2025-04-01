@@ -1,0 +1,93 @@
+{
+  "name": "Hero Point Deck Rules",
+  "pages": [
+    {
+      "sort": 0,
+      "name": "Official Rules",
+      "type": "text",
+      "_id": "xakJzhfviTiovJqd",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>At the start of each session, shuffle this deck of cards and place it where everyone can each it. Whenever the GM would give you a Hero Point, including the one granted at the start of each session, draw a card from the deck instead. Don't reveal the card to the other players until you play it.</p><p>Each card tells you when you can use it and what effect it has on the game, but you can also spend the card for any one of the standard Hero Point effects! Remember that if you're forced to spend all of your Hero Points, usually to avoid death, you must spend all of your cards as well. These cards don't use any of your character's actions or reaction (although some might allow you to spend future actions in a special way).</p><p>If the deck runs out of cards, shuffle the discard pile to create a new deck. At the end of each session, all Hero Point cards are returned to the deck. You get new cards at the start of each game!</p><h2>Optional Rules</h2><p>Your group can use the Hero Point cards in your game in a number of ways. Discuss the following optional rules as a group before implementing them at the table.</p><ul><li><p>The cards are revealed to the table as soon as they are drawn, and players can trade them.</p></li><li><p>Instead of dealing out cards to each player, turn three cards face up at the start of the session and place them at the centre of the table. All players can use these cards by spending their Hero Points. Discard the cards as they are used and draw a replacement to ensure that three cards are always available.</p></li><li><p>Players can keep one Hero Point card at the end of each session, but it counts as one of their cards at the start of the next game.</p></li><li><p>Turn the top card of the deck over, so that the players can see what they might earn by performing heroic deeds.</p></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "8uBJxjNukwwp5BWW": 3
+      },
+      "flags": {
+        "core": {
+          "sourceId": "JournalEntry.TIUSxRW19ByyoZ2E.JournalEntryPage.xakJzhfviTiovJqd"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.7.1"
+      },
+      "_key": "!journal.pages!OYGoRDmDVpnhhMC8.xakJzhfviTiovJqd"
+    },
+    {
+      "sort": 100000,
+      "name": "Expansion Rules",
+      "type": "text",
+      "_id": "xNI8PbuLgJi50V4u",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>WIP</p><ul><li><p>Since kineticists are unique in many respects, for the purposes of Hero Point Cards, a kineticist may treat an Elemental Blast as if it were a Strike, or treat it as a cantrip if it is a 2-action Elemental Blast.</p></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "zi8YqZ1aO7op2Zk7": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.10.2"
+      },
+      "_key": "!journal.pages!OYGoRDmDVpnhhMC8.xNI8PbuLgJi50V4u"
+    }
+  ],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "8uBJxjNukwwp5BWW": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.7.1"
+  },
+  "_id": "OYGoRDmDVpnhhMC8",
+  "sort": 100000,
+  "_key": "!journal!OYGoRDmDVpnhhMC8"
+}

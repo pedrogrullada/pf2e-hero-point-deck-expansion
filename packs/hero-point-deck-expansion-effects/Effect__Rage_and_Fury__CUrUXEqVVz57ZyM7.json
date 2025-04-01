@@ -1,0 +1,95 @@
+{
+  "img": "icons/sundries/gaming/playing-cards-brown.webp",
+  "name": "Effect: Rage and Fury*",
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Granted by @UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.gI02DMKytCyoYRZk.JournalEntryPage.Q0VHx9WidEcJkZhB]{Rage and Fury}</p><p>You have the following effects</p><ul><li>You gain 2 additional damage to melee Strikes. If you have weapon specialization, this damage increases to 4, or to 6 if you have greater weapon specialization.</li><li>You gain temporary Hit Points equal to your level.</li></ul>"
+    },
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "selector": "melee-strike-damage",
+        "value": 2,
+        "slug": "rage-and-fury"
+      },
+      {
+        "key": "AdjustModifier",
+        "slug": "rage-and-fury",
+        "selector": "melee-strike-damage",
+        "value": 4,
+        "predicate": [
+          "feature:weapon-specialization"
+        ],
+        "mode": "upgrade"
+      },
+      {
+        "key": "AdjustModifier",
+        "slug": "rage-and-fury",
+        "selector": "melee-strike-damage",
+        "value": 6,
+        "predicate": [
+          "feature:greater-weapon-specialization"
+        ],
+        "mode": "upgrade"
+      },
+      {
+        "key": "TempHP",
+        "value": "@actor.level"
+      }
+    ],
+    "slug": "effect-rage-and-fury",
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null,
+      "previous": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": []
+    },
+    "publication": {
+      "title": "PF2e Hero Point Deck Expansion",
+      "authors": "",
+      "license": "OGL",
+      "remaster": true
+    },
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": 1,
+      "unit": "rounds",
+      "expiry": "turn-end",
+      "sustained": false
+    },
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "tokenIcon": {
+      "show": true
+    },
+    "badge": null,
+    "context": null,
+    "unidentified": false
+  },
+  "type": "effect",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1"
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "zi8YqZ1aO7op2Zk7": 3
+  },
+  "flags": {},
+  "_id": "CUrUXEqVVz57ZyM7",
+  "sort": 0,
+  "_key": "!items!CUrUXEqVVz57ZyM7"
+}

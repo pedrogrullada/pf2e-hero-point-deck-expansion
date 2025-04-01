@@ -1,0 +1,259 @@
+{
+  "name": "Hero Point Deck Patch",
+  "_id": "gI02DMKytCyoYRZk",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Rage and Fury",
+      "type": "text",
+      "_id": "Q0VHx9WidEcJkZhB",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when an ally is knocked @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious} or when you take damage from a critical hit.</p><hr /><p>Until the end of your next turn, you enter a rage, with the following effects</p><ul><li>You gain 2 additional damage to melee Strikes. If you have weapon specialization, this bonus increases to 4, or to 6 if you have greater weapon specialization.</li><li>You gain temporary Hit Points equal to your level.</li><li>You can't use concentrate actions unless they have the rage trait. You can still use @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} while raging.</li></ul><p>You can instead use the stats for your @UUID[Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9]{Rage} class feature if you have one. If you don't have the rage class feature, you are @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued} when the rage ends.</p><p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-effects.Item.CUrUXEqVVz57ZyM7]{Effect: Rage and Fury}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "zi8YqZ1aO7op2Zk7": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.10.2"
+      },
+      "_key": "!journal.pages!gI02DMKytCyoYRZk.Q0VHx9WidEcJkZhB"
+    },
+    {
+      "sort": 200000,
+      "name": "Battle Cry",
+      "type": "text",
+      "_id": "yYRj0xk5LrymY4HH",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play after making a successful melee attack.</p><hr /><p>You unleash a terrifying battle cry. Attempt an Intimidation check to @UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{Demoralize} and compare the result against all enemies within 30 feet. You don't take a penalty if the enemies don't understand your language.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "zi8YqZ1aO7op2Zk7": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.10.2"
+      },
+      "_key": "!journal.pages!gI02DMKytCyoYRZk.yYRj0xk5LrymY4HH"
+    },
+    {
+      "_id": "Gu6CHAPMigpV9awj",
+      "image": {},
+      "name": "Tumble Through",
+      "sort": 200000,
+      "src": null,
+      "system": {},
+      "text": {
+        "content": "<p>Play when you move into a space adjacent to a creature that is larger than you.</p><hr /><p>Move to the opposite side of that creature. This movement doesn't trigger any reactions based on movement.</p>",
+        "format": 1
+      },
+      "title": {
+        "level": 1,
+        "show": false
+      },
+      "type": "text",
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.Gu6CHAPMigpV9awj",
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.10.2"
+      },
+      "ownership": {
+        "default": -1,
+        "zi8YqZ1aO7op2Zk7": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!gI02DMKytCyoYRZk.Gu6CHAPMigpV9awj"
+    },
+    {
+      "_id": "D6hqfmZUksRvqNFR",
+      "image": {},
+      "name": "Fluid Motion",
+      "sort": 200000,
+      "src": null,
+      "system": {},
+      "text": {
+        "content": "<p>Play at the start of your turn.</p><hr /><p>For the rest of your turn, you gain a climb Speed and a swim Speed equal to your Speed. If you make a horizontal @UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leap}, increase the distance jumped by 10 feet.</p>",
+        "format": 1
+      },
+      "title": {
+        "level": 1,
+        "show": false
+      },
+      "type": "text",
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.D6hqfmZUksRvqNFR",
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.10.2"
+      },
+      "ownership": {
+        "default": -1,
+        "zi8YqZ1aO7op2Zk7": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!gI02DMKytCyoYRZk.D6hqfmZUksRvqNFR"
+    },
+    {
+      "sort": 0,
+      "name": "Hero Point Deck Patches",
+      "type": "text",
+      "_id": "6bLWSIiJNLAAzG8Q",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>The original Hero Point Deck has quite some disparity between the worst and the best cards, and while I don't claim to strike a perfect balance, I will try to bridge the gap between them. Some cards are situational and that's fine, as long as they are good in the situation they're designed for.</p><blockquote><p><strong>Foundry Note:</strong> Effect items for these patched cards have an * symbol appended to their name, as to differentiate them from the system's original effects.</p></blockquote><hr /><ul><li><p><strong>Rage and Fury</strong></p><ul><li>Changed its effects to take place immediately instead of at the start of your next turn, and the duration is now \"until the end of your next turn\".</li><li>Additional damage now scales with weapon specialization and greater weapon specialization.</li><li>Added temporary Hit Points equal to your level.</li></ul></li><li><p><strong>Battle Cry</strong></p><ul><li>You don't take a penalty if the enemies don't understand your language.</li></ul></li><li><p><strong>Tumble Through</strong></p><ul><li>Change the trigger line to \"Play when you move into a space adjacent to a creature that is larger than you.\", allowing the card to be played during a move action, instead of just after.</li></ul></li><li><p><strong>Fluid Motion</strong></p><ul><li>Increase the climb and swim Speeds to be equal to your Speed rather than half.</li></ul></li><li><p><strong>Hasty Block</strong></p><ul><li><p>WIP</p></li></ul></li><li><p><strong>Healing Prayer</strong></p><ul><li>Tweak the scaling of the healing to progress more steadily across levels.</li></ul></li><li><p><strong>Channel Life Force</strong></p><ul><li>You no longer become drained 1 after using the regained focus point.</li></ul></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "zi8YqZ1aO7op2Zk7": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.10.2"
+      },
+      "_key": "!journal.pages!gI02DMKytCyoYRZk.6bLWSIiJNLAAzG8Q"
+    },
+    {
+      "_id": "Ttn2H0JHJVksChGi",
+      "image": {},
+      "name": "Healing Prayer",
+      "sort": 200000,
+      "src": null,
+      "system": {},
+      "text": {
+        "content": "<p>Play during your turn.</p><hr /><p>Select yourself or an ally within reach. The target regains @Damage[((ceil(@actor.level / 2) + 1)d8+2*ceil(@actor.level / 2))[healing]] Hit Points. At 3rd level, and every two levels thereafter, increase the healing by an additional 1d8 + 2.</p>",
+        "format": 1
+      },
+      "title": {
+        "level": 1,
+        "show": false
+      },
+      "type": "text",
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.Ttn2H0JHJVksChGi",
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.10.2"
+      },
+      "ownership": {
+        "default": -1,
+        "zi8YqZ1aO7op2Zk7": 3
+      },
+      "flags": {},
+      "_key": "!journal.pages!gI02DMKytCyoYRZk.Ttn2H0JHJVksChGi"
+    },
+    {
+      "sort": 300000,
+      "name": "Channel Life Force",
+      "type": "text",
+      "_id": "gX1rPa5d4HZZ7PjW",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play on your turn after you have spent all of your Focus Points.</p><hr /><p>Gain 1 Focus Point that must be spent by the end of your turn or it's lost.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "zi8YqZ1aO7op2Zk7": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.10.2"
+      },
+      "_key": "!journal.pages!gI02DMKytCyoYRZk.gX1rPa5d4HZZ7PjW"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "zi8YqZ1aO7op2Zk7": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.10.2"
+  },
+  "_key": "!journal!gI02DMKytCyoYRZk"
+}

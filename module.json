@@ -1,0 +1,76 @@
+{
+  "authors": [
+    {
+      "flags": {},
+      "name": "Pedro Grullo"
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "A compendium with more cards for the Hero Point Deck.",
+  "download": "https://github.com/pedrogrullada/pf2e-hero-point-deck-expansion/releases/download/1.0.0/module.zip",
+  "id": "pf2e-hero-point-deck-expansion",
+  "manifest": "https://github.com/pedrogrullada/pf2e-hero-point-deck-expansion/releases/latest/download/module.json",
+  "packFolders": [
+    {
+      "color": null,
+      "folders": [],
+      "name": "Hero Point Deck Expansion",
+      "packs": [
+        "hero-point-deck-expansion-effects",
+        "hero-point-deck-expansion-journals",
+        "hero-point-deck-expansion-tables"
+      ],
+      "sorting": "a"
+    }
+  ],
+  "packs": [
+    {
+      "label": "Hero Deck Expanded Journals",
+      "name": "hero-point-deck-expansion-journals",
+      "ownership": {
+        "ASSISTANT": "OWNER",
+        "PLAYER": "OBSERVER"
+      },
+      "path": "packs/hero-point-deck-expansion-journals",
+      "system": "pf2e",
+      "type": "JournalEntry"
+    },
+    {
+      "label": "Hero Deck Expanded Tables",
+      "name": "hero-point-deck-expansion-tables",
+      "ownership": {
+        "ASSISTANT": "OWNER",
+        "PLAYER": "OBSERVER"
+      },
+      "path": "packs/hero-point-deck-expansion-tables",
+      "system": "pf2e",
+      "type": "RollTable"
+    },
+    {
+      "label": "Hero Deck Expanded Effects",
+      "name": "hero-point-deck-expansion-effects",
+      "ownership": {
+        "ASSISTANT": "OWNER",
+        "PLAYER": "OBSERVER"
+      },
+      "path": "packs/hero-point-deck-expansion-effects",
+      "system": "pf2e",
+      "type": "Item"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "compatibility": {},
+        "id": "pf2e",
+        "type": "system"
+      }
+    ]
+  },
+  "title": "PF2e Hero Point Deck Expansion",
+  "url": "https://github.com/pedrogrullo/pf2e-hero-point-deck-expansion",
+  "version": "1.0.0"
+}
