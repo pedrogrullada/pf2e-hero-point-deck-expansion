@@ -1,6 +1,6 @@
 {
   "name": "pf2e-hero-point-deck-expansion",
-  "version": "6.0",
+  "version": "0.1.0",
   "description": "",
   "scripts": {
     "build": "node build.mjs",
