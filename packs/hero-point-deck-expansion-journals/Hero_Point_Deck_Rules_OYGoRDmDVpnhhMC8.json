@@ -3,7 +3,7 @@
   "pages": [
     {
       "sort": 0,
-      "name": "Official Rules",
+      "name": "Rules",
       "type": "text",
       "_id": "xakJzhfviTiovJqd",
       "title": {
@@ -41,7 +41,7 @@
     },
     {
       "sort": 100000,
-      "name": "Expansion Rules",
+      "name": "Expansion Rules (WIP)",
       "type": "text",
       "_id": "xNI8PbuLgJi50V4u",
       "system": {},
@@ -52,7 +52,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>WIP</p><ul><li><p>Since kineticists are unique in many respects, for the purposes of Hero Point Cards, a kineticist may treat an Elemental Blast as if it were a Strike, or treat it as a cantrip if it is a 2-action Elemental Blast.</p></li></ul>"
+        "content": "<ul><li><p>Since kineticists are unique in many respects, for the purposes of Hero Point Cards, a kineticist may treat an Elemental Blast as if it were a Strike, or treat it as a cantrip if it is a 2-action Elemental Blast.</p></li></ul>"
       },
       "video": {
         "controls": true,

@@ -798,7 +798,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play at the start of your turn.</p><hr /><p>You dangerously harness more energy into your spell. If your next action is to Cast a Spell or use a different magical effect with a saving throw and a specific number of targets, increase the number of actions required by one. You can add one additional target, but their degree of success against the spell improves by one step.</p>"
+        "content": "<p>Play when you Cast a Spell with a saving throw and a specific number of targets on your turn.</p><hr /><p>You dangerously harness more energy into your spell. You can increase the number of actions required for the spell by one. If you do, you add one additional target, but their degree of success against the spell improves by one step.</p>"
       },
       "video": {
         "controls": true,
@@ -920,6 +920,74 @@
         "systemVersion": "6.10.2"
       },
       "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.xkAXUCIWbZSDzitQ"
+    },
+    {
+      "sort": 2800000,
+      "name": "Liberating Strike",
+      "type": "text",
+      "_id": "5WHXQlRTUiTjqeLF",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when an ally is @UUID[Compendium.pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilized}, @UUID[Compendium.pf2e.conditionitems.kWc1fhmv9LBiTuei]{Grabbed}, or @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained} by an enemy, and you are within reach of both.</p><hr /><p>Make a Strike against the triggering enemy. On a hit, your ally loses the condition as if they successfully @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escaped}. For the purposes of this effect, an ally that has been @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.uJSseLa57HZYSMUu]{Swallowed Whole} or @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.zU3Ovaet4xQ5Gmvy]{Engulfed} is within reach.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.11.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.5WHXQlRTUiTjqeLF"
+    },
+    {
+      "sort": 2900000,
+      "name": "Taunt",
+      "type": "text",
+      "_id": "8AKgivqGYuDcW20V",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when an ally is hit by a Strike for which you would be a valid target.</p><hr /><p>You become the target of the Strike instead of your ally.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.11.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.8AKgivqGYuDcW20V"
     }
   ],
   "folder": null,

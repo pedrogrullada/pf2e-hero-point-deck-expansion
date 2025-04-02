@@ -1,7 +1,7 @@
 {
   "description": "<p>A table including the module's patch for the original Hero Point Deck, in addition to an expansion with several extra cards.</p>",
   "displayRoll": true,
-  "formula": "1d79",
+  "formula": "1d81",
   "img": "icons/svg/d20-grey.svg",
   "name": "Hero Point Deck (Patch + Expanded)",
   "ownership": {
@@ -1194,6 +1194,36 @@
       "documentId": null,
       "flags": {},
       "_key": "!tables.results!R0J4qmkLgSBVkoYS.vrhMEdcmGVF74PE0"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "_id": "kiHnWPziJv3bP66s",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.5WHXQlRTUiTjqeLF]{Liberating Strike}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.kiHnWPziJv3bP66s"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "_id": "sXv19rKSwhnyAGTT",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.8AKgivqGYuDcW20V]{Taunt}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.sXv19rKSwhnyAGTT"
     }
   ],
   "_stats": {
