@@ -81,7 +81,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><span style=\"font-family:Signika, sans-serif\">Play when you critically hit an enemy or trigger an enemy's weakness.</span></p><hr /><p>You give your ally an opportunity to follow up your success! Choose an ally who is able to act. Their initiative position is moved to directly after you. Your turn ends, and you grant that ally a circumstance bonus to a check of their choice equal to 1 + the number of actions you had left. This benefit lasts until the end of their turn.</p><p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-effects.Item.ouNWLIg54qdlsaeZ]{Effect: Baton Pass}</p>"
+        "content": "<p><span style=\"font-family:Signika, sans-serif\">Play when you critically hit an enemy or exploit an enemy's weakness.</span></p><hr /><p>You give your ally an opportunity to follow up your assault! Choose an ally who is able to act. Their initiative position is moved to directly after you. Your turn ends, and you grant that ally a circumstance bonus to a check of their choice equal to 1 + the number of actions you had left. This bonus lasts until the end of their turn.</p><p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-effects.Item.ouNWLIg54qdlsaeZ]{Effect: Baton Pass}</p>"
       },
       "video": {
         "controls": true,
@@ -115,7 +115,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p><span style=\"font-family:Signika, sans-serif\">Play when you critically hit an enemy or trigger an enemy's weakness.</span></p><hr /><p>You gain an additional action which can be used to used to Strike, use a move action, or an Interact action. The triggering weakness, if any, cannot be exploited again this turn.</p>",
+        "content": "<p><span style=\"font-family:Signika, sans-serif\">Play when you critically hit an enemy or exploit an enemy's weakness.</span></p><hr /><p>The enemy reels from the impact, giving you a window to act. You gain an additional action that can be used to used to Strike, use a move action, or an Interact action. The triggering weakness, if any, cannot be exploited again this turn.</p>",
         "markdown": ""
       },
       "video": {
@@ -288,7 +288,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play when the trigger for one of your reactions is met.</p><hr /><p>You quickly seize an opportunity to intervene. You gain an additional reaction that you must spend immediately to use the reaction corresponding to the trigger.</p>"
+        "content": "<p>Play when the trigger for one of your reactions is met.</p><hr /><p>You quickly seize an opportunity to intervene. You can use the triggering reaction as a free action instead. As normal, you can use only action in response to a given trigger.</p>"
       },
       "video": {
         "controls": true,
@@ -356,7 +356,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play during your turn while you have at least one spell slot left.</p><hr /><p>You reshape the energy harnessed for your spell at the last second. Select a common spell of a rank and tradition for which you have spell slots. You can spend a spell slot of the appropriate rank (including heightening) to Cast that Spell as though it was prepared or part of your repertoire.</p><p>After Casting the Spell, you are @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1} for 1 round, as your brain is scrambled by a strange magical feedback.</p>"
+        "content": "<p>Play during your turn while you have at least one spell slot left.</p><hr /><p>You reshape the energy harnessed for your spell at the last second. For the next spell you Cast this turn using a spell slot, select a common spell of the same tradition, and of the same rank or lower. You Cast that Spell instead.</p><p>After Casting the Spell, you are @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1} for 1 round, as your brain is scrambled by a strange magical feedback.</p>"
       },
       "video": {
         "controls": true,
@@ -628,7 +628,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play when you roll a natural 1 on any check during an encounter.</p><hr /><p>You willingly accept an otherworldly curse offered by an agent of chaos witnessing your battle. The triggering result becomes a natural 20 instead. However, the next natural 20 you roll in an encounter becomes a natural 1. These effects are fortune and misfortune respectively, but can't be cancelled out by other such effects.</p>"
+        "content": "<p>Play when you roll a natural 1 on any check during an encounter.</p><hr /><p>You willingly accept an otherworldly curse offered by an agent of chaos witnessing your battle. The triggering result becomes a natural 20 instead. However, the next natural 20 you roll in an encounter becomes a natural 1, and you can't change this result.</p><p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-effects.Item.IAqtfUOSpLVDZpMC]{Effect: Curse of Temporal Discounting}</p>"
       },
       "video": {
         "controls": true,
@@ -696,7 +696,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play when you use a spell or impulse that has an area of effect.</p><hr /><p>You spread your energy over a wider region. You can use the @UUID[Compendium.pf2e.feats-srd.Item.FoWO4RnHRwfEIC7Q]{Widen Spell} spellshape with its usual action cost. If the triggering effect was an impulse, you can treat it as a spell for the purposes of applying the area adjustment.</p><hr /><p><strong>Special</strong> If you already have Widen Spell you can instead play this card to use it as a free action.</p>"
+        "content": "<p>Play when you use a spell or impulse that has an area of effect.</p><hr /><p>You spread your energy over a wider region. You can use the @UUID[Compendium.pf2e.feats-srd.Item.FoWO4RnHRwfEIC7Q]{Widen Spell} spellshape with its usual action cost.</p><hr /><p><strong>Special</strong> If you already have Widen Spell you can instead play this card to use it as a free action.</p>"
       },
       "video": {
         "controls": true,
@@ -730,7 +730,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play when you use a spell or impulse with a range.</p><hr /><p>You stretch your energy to reach beyond its usual horizon. You can use the @UUID[Compendium.pf2e.feats-srd.Item.BWomK7EVY0WXxWgh]{Reach Spell} spellshape with its usual action cost. If the triggering effect was an impulse, you can treat it as a spell for the purposes of applying the range adjustment.</p><hr /><p><strong>Special</strong> If you already have Reach Spell you can instead play this card to use it as a free action.</p>"
+        "content": "<p>Play when you use a spell or impulse with a range.</p><hr /><p>You stretch your energy to reach beyond its usual horizon. You can use the @UUID[Compendium.pf2e.feats-srd.Item.BWomK7EVY0WXxWgh]{Reach Spell} spellshape with its usual action cost.</p><hr /><p><strong>Special</strong> If you already have Reach Spell you can instead play this card to use it as a free action.</p>"
       },
       "video": {
         "controls": true,
@@ -900,7 +900,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play at the beginning of your turn in an encounter where you used Stealth for initiative</p><hr /><p>You are @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Quickened} until the end of your turn. You can use the extra action only to Hide, Sneak, or Take Cover.</p>"
+        "content": "<p>Play at the start of your turn in an encounter where you used Stealth for initiative</p><hr /><p>You are @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Quickened} until the end of your turn. You can use the extra action only to Hide, Sneak, or Take Cover.</p>"
       },
       "video": {
         "controls": true,
@@ -988,6 +988,74 @@
         "systemVersion": "6.11.1"
       },
       "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.8AKgivqGYuDcW20V"
+    },
+    {
+      "sort": 3000000,
+      "name": "Weapon Specialist",
+      "type": "text",
+      "_id": "dpMq2r4I1rAD32oU",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when you hit, but not critically hit, an enemy with a Strike.</p><hr /><p>You benefit from your weapon or unarmed attack's critical specialization effect, as well the additional effect as though you had the @UUID[Compendium.pf2e.equipment-srd.Item.qUnDHEXteUQGE8yp]{Grievous} rune.</p><p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-effects.Item.mcb5Rie1D4QG3LGk]{Effect: Weapon Specialist}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.11.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.dpMq2r4I1rAD32oU"
+    },
+    {
+      "sort": 3100000,
+      "name": "Pass Without Trace",
+      "type": "text",
+      "_id": "uuiRjyPcLmjCkTVE",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play during exploration.</p><hr /><p>Choose an ally at least trained in Stealth for you and your other allies to @UUID[Compendium.pf2e.actionspf2e.Item.tfa4Sh7wcxCEqL29]{Follow the Expert}, as though they had the Quiet Allies feat, and were an expert in Stealth if they are only trained.</p><p>If the chosen ally already has the @UUID[Compendium.pf2e.feats-srd.Item.pekKtubQTkG9m1xK]{Quiet Allies} feat, they can use their own modifier for the single Stealth check instead of using the lowest modifier. As usual for Quiet Allies, this doesn't apply to initiative rolls.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.11.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.uuiRjyPcLmjCkTVE"
     }
   ],
   "folder": null,

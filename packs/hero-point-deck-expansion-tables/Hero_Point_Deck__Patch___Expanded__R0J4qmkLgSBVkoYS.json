@@ -1,7 +1,7 @@
 {
   "description": "<p>A table including the module's patch for the original Hero Point Deck, in addition to an expansion with several extra cards.</p>",
   "displayRoll": true,
-  "formula": "1d81",
+  "formula": "1d83",
   "img": "icons/svg/d20-grey.svg",
   "name": "Hero Point Deck (Patch + Expanded)",
   "ownership": {
@@ -1224,6 +1224,36 @@
       "documentId": null,
       "flags": {},
       "_key": "!tables.results!R0J4qmkLgSBVkoYS.sXv19rKSwhnyAGTT"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "_id": "UbGrrOpFBDgju5zR",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.dpMq2r4I1rAD32oU]{Weapon Specialist}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.UbGrrOpFBDgju5zR"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "_id": "4AMb47h8fNxVo9VQ",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.uuiRjyPcLmjCkTVE]{Pass Without Trace}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.4AMb47h8fNxVo9VQ"
     }
   ],
   "_stats": {

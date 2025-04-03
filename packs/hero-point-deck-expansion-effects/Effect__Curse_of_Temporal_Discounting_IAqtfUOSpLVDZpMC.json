@@ -1,42 +1,22 @@
 {
-  "name": "Effect: Baton Pass",
+  "name": "Effect: Curse of Temporal Discounting",
   "type": "effect",
   "effects": [],
   "system": {
     "description": {
       "gm": "",
-      "value": "<p>Granted by @UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.i0cBhE9Vo68nIPlF]{Baton Pass}</p><p>You gain a circumstance bonus to a check</p>"
+      "value": "<p>Granted by @UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.jvJaIYbGfwNpcH73]{Curse of Temporal Discounting}</p><p>Your next natural 20 in an encounter becomes a natural 1.</p>"
     },
     "rules": [
       {
-        "adjustName": false,
-        "key": "ChoiceSet",
-        "choices": [
-          {
-            "label": "PF2E.SpecificRule.Numbers.One",
-            "value": 1
-          },
-          {
-            "label": "PF2E.SpecificRule.Numbers.Two",
-            "value": 2
-          },
-          {
-            "label": "PF2E.SpecificRule.Numbers.Three",
-            "value": 3
-          }
-        ],
-        "flag": "batonPass",
-        "prompt": "How many actions left?"
-      },
-      {
-        "key": "FlatModifier",
+        "key": "Note",
         "selector": "check",
-        "value": "1 + @item.flags.pf2e.rulesSelections.batonPass",
-        "type": "circumstance",
-        "removeAfterRoll": "if-enabled",
+        "text": "Your natural 20 becomes a natural 1. This result can't be changed.",
         "predicate": [
-          "baton-pass"
-        ]
+          "check:total:natural:20",
+          "encounter"
+        ],
+        "title": "{item|name}"
       }
     ],
     "slug": null,
@@ -74,13 +54,13 @@
     "context": null,
     "unidentified": false
   },
-  "_id": "ouNWLIg54qdlsaeZ",
+  "_id": "IAqtfUOSpLVDZpMC",
   "img": "icons/sundries/gaming/playing-cards-brown.webp",
   "folder": null,
-  "sort": 600000,
+  "sort": 300000,
   "ownership": {
     "default": 0,
-    "clGYHR8vD67PtmKk": 3
+    "AhhBYTk3xYRMuz4T": 3
   },
   "flags": {},
   "_stats": {
@@ -90,5 +70,5 @@
     "systemId": "pf2e",
     "systemVersion": "6.11.1"
   },
-  "_key": "!items!ouNWLIg54qdlsaeZ"
+  "_key": "!items!IAqtfUOSpLVDZpMC"
 }

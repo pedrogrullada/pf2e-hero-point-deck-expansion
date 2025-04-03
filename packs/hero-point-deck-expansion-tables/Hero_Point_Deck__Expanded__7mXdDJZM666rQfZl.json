@@ -1,7 +1,7 @@
 {
   "description": "<p>A table including the original Hero Point Deck by Paizo, in addition to an expansion with several extra cards.</p>",
   "displayRoll": true,
-  "formula": "1d81",
+  "formula": "1d83",
   "img": "icons/svg/d20-grey.svg",
   "name": "Hero Point Deck (Expanded)",
   "ownership": {
@@ -1224,6 +1224,36 @@
       "documentId": null,
       "flags": {},
       "_key": "!tables.results!7mXdDJZM666rQfZl.agp2iX5DgBD8bIeT"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "_id": "O0wr4Ff6vWBCrvtn",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.dpMq2r4I1rAD32oU]{Weapon Specialist}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!7mXdDJZM666rQfZl.O0wr4Ff6vWBCrvtn"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "_id": "oxnev5J3j3bZXAkN",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.uuiRjyPcLmjCkTVE]{Pass Without Trace}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!7mXdDJZM666rQfZl.oxnev5J3j3bZXAkN"
     }
   ],
   "_stats": {

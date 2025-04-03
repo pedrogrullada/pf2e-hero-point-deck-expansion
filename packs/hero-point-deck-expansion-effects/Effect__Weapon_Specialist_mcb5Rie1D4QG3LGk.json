@@ -1,0 +1,304 @@
+{
+  "name": "Effect: Weapon Specialist",
+  "type": "effect",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Granted by @UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.dpMq2r4I1rAD32oU]{Weapon Specialist}</p><p>Your Strike benefits from your weapon's critical specialization effect</p>"
+    },
+    "rules": [
+      {
+        "adjustName": false,
+        "key": "ChoiceSet",
+        "flag": "group",
+        "choices": {
+          "config": "weaponGroups"
+        },
+        "prompt": "Choose your weapon's group",
+        "rollOption": "weapon-specialist"
+      },
+      {
+        "adjustName": false,
+        "key": "ChoiceSet",
+        "flag": "groupCaps",
+        "choices": [
+          {
+            "label": "Axe",
+            "value": "Axe",
+            "predicate": [
+              "weapon-specialist:axe"
+            ]
+          },
+          {
+            "label": "Bomb",
+            "value": "Bomb",
+            "predicate": [
+              "weapon-specialist:bomb"
+            ]
+          },
+          {
+            "label": "Bow",
+            "value": "Bow",
+            "predicate": [
+              "weapon-specialist:bow"
+            ]
+          },
+          {
+            "label": "Brawling",
+            "value": "Brawling",
+            "predicate": [
+              "weapon-specialist:brawling"
+            ]
+          },
+          {
+            "label": "Club",
+            "value": "Club",
+            "predicate": [
+              "weapon-specialist:club"
+            ]
+          },
+          {
+            "label": "Crossbow",
+            "value": "Crossbow",
+            "predicate": [
+              "weapon-specialist:crossbow"
+            ]
+          },
+          {
+            "label": "Dart",
+            "value": "Dart",
+            "predicate": [
+              "weapon-specialist:dart"
+            ]
+          },
+          {
+            "label": "Firearm",
+            "value": "Firearm",
+            "predicate": [
+              "weapon-specialist:firearm"
+            ]
+          },
+          {
+            "label": "Flail",
+            "value": "Flail",
+            "predicate": [
+              "weapon-specialist:flail"
+            ]
+          },
+          {
+            "label": "Hammer",
+            "value": "Hammer",
+            "predicate": [
+              "weapon-specialist:hammer"
+            ]
+          },
+          {
+            "label": "Knife",
+            "value": "Knife",
+            "predicate": [
+              "weapon-specialist:knife"
+            ]
+          },
+          {
+            "label": "Pick",
+            "value": "Pick",
+            "predicate": [
+              "weapon-specialist:pick"
+            ]
+          },
+          {
+            "label": "Polearm",
+            "value": "Polearm",
+            "predicate": [
+              "weapon-specialist:polearm"
+            ]
+          },
+          {
+            "label": "Shield",
+            "value": "Shield",
+            "predicate": [
+              "weapon-specialist:shield"
+            ]
+          },
+          {
+            "label": "Sling",
+            "value": "Sling",
+            "predicate": [
+              "weapon-specialist:sling"
+            ]
+          },
+          {
+            "label": "Spear",
+            "value": "Spear",
+            "predicate": [
+              "weapon-specialist:spear"
+            ]
+          },
+          {
+            "label": "Sword",
+            "value": "Sword",
+            "predicate": [
+              "weapon-specialist:sword"
+            ]
+          }
+        ]
+      },
+      {
+        "key": "Note",
+        "selector": "{item|flags.pf2e.rulesSelections.group}-weapon-group-damage",
+        "text": "PF2E.Item.Weapon.CriticalSpecialization.{item|flags.pf2e.rulesSelections.group}",
+        "title": "PF2E.Actor.Creature.CriticalSpecialization",
+        "predicate": [
+          {
+            "nor": [
+              "weapon-specialist:crossbow",
+              "weapon-specialist:knife",
+              "weapon-specialist:dart",
+              "weapon-specialist:pick"
+            ]
+          }
+        ]
+      },
+      {
+        "key": "Note",
+        "selector": "{item|flags.pf2e.rulesSelections.group}-weapon-group-damage",
+        "text": "PF2E.WeaponPropertyRune.grievous.Note.{item|flags.pf2e.rulesSelections.groupCaps}",
+        "title": "PF2E.WeaponPropertyRune.grievous.Name",
+        "predicate": [
+          {
+            "nor": [
+              "weapon-specialist:dart",
+              "weapon-specialist:pick"
+            ]
+          }
+        ]
+      },
+      {
+        "key": "DamageDice",
+        "diceNumber": 1,
+        "dieSize": "d6",
+        "damageType": "bleed",
+        "predicate": [
+          {
+            "or": [
+              "weapon-specialist:crossbow",
+              "weapon-specialist:dart",
+              "weapon-specialist:knife"
+            ]
+          }
+        ],
+        "selector": "{item|flags.pf2e.rulesSelections.group}-weapon-group-damage",
+        "hideIfDisabled": true,
+        "label": "PF2E.Actor.Creature.CriticalSpecialization",
+        "slug": "weapon-specialist-bleed"
+      },
+      {
+        "key": "FlatModifier",
+        "selector": "{item|flags.pf2e.rulesSelections.group}-weapon-group-damage",
+        "value": "@weapon.system.runes.potency",
+        "damageType": "bleed",
+        "type": "item",
+        "hideIfDisabled": true,
+        "label": "PF2E.Actor.Creature.CriticalSpecialization",
+        "predicate": [
+          {
+            "or": [
+              "weapon-specialist:crossbow",
+              "weapon-specialist:dart",
+              "weapon-specialist:knife"
+            ]
+          }
+        ],
+        "slug": "weapon-specialist-bleed"
+      },
+      {
+        "key": "DamageAlteration",
+        "selectors": [
+          "{item|flags.pf2e.rulesSelections.group}-weapon-group-damage"
+        ],
+        "mode": "upgrade",
+        "value": 8,
+        "predicate": [
+          "weapon-specialist:crossbow"
+        ],
+        "slug": "weapon-specialist-bleed",
+        "property": "dice-faces"
+      },
+      {
+        "key": "DamageAlteration",
+        "selectors": [
+          "{item|flags.pf2e.rulesSelections.group}-weapon-group-damage"
+        ],
+        "mode": "upgrade",
+        "value": 2,
+        "predicate": [
+          "weapon-specialist:dart"
+        ],
+        "slug": "weapon-specialist-bleed",
+        "property": "dice-number"
+      },
+      {
+        "key": "FlatModifier",
+        "selector": "{item|flags.pf2e.rulesSelections.group}-weapon-group-damage",
+        "value": "4*@weapon.system.damage.dice",
+        "predicate": [
+          "weapon-specialist:pick"
+        ],
+        "hideIfDisabled": true,
+        "slug": "weapon-specialist-pick"
+      }
+    ],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": []
+    },
+    "publication": {
+      "title": "PF2e Hero Point Deck Expansion",
+      "authors": "",
+      "license": "OGL",
+      "remaster": true
+    },
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": 1,
+      "unit": "rounds",
+      "expiry": "turn-start",
+      "sustained": false
+    },
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "tokenIcon": {
+      "show": true
+    },
+    "badge": null,
+    "context": null,
+    "unidentified": false
+  },
+  "img": "icons/sundries/gaming/playing-cards-brown.webp",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "AhhBYTk3xYRMuz4T": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1"
+  },
+  "_id": "mcb5Rie1D4QG3LGk",
+  "sort": 200000,
+  "_key": "!items!mcb5Rie1D4QG3LGk"
+}
