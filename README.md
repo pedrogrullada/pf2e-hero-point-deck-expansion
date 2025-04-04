@@ -13,6 +13,11 @@ Once you have enabled the module, you will see a compendium folder named "Hero P
 
 While rollable tables are sufficient to draw random cards, I highly recommend you make use of the [PF2e Toolbelt](https://foundryvtt.com/packages/pf2e-toolbelt) module's [Hero Actions](https://github.com/reonZ/pf2e-toolbelt/wiki/Hero-Actions) feature. The module will allow your players to use, discard, and even trade cards amongst each other, all from their own character sheets! All you need to do is go to PF2e Toolbelt's settings and link the appropriate table to draw cards from.
 
+# Licenses
+All the scripts are modified versions of the scripts found in the [PF2e Playtest Data](https://github.com/TikaelSol/pf2e-playtest-data) module, licensed under the Apache License 2.0
+
+Game system information and mechanics are licensed under the Open Game License (OPEN GAME LICENSE Version 1.0a).
+
 ---
 
 <sup><sub>1. It is all journal entries, there were no actual cards involved in the making of this module.</sub></sup>
