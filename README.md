@@ -20,7 +20,7 @@ Kineticist is mechanically unique, and many cards do not take these mechanics in
 
 As a GM, you should feel free to improvise and allow a card to work with kineticist if you think it should.
 # Licenses
-All the scripts are modified versions of the scripts found in the [PF2e Playtest Data](https://github.com/TikaelSol/pf2e-playtest-data) module, licensed under the Apache License 2.0
+All the scripts are modified versions of the scripts found in the [PF2e Playtest Data](https://github.com/TikaelSol/pf2e-hero-point-deck-expansion) module, licensed under the Apache License 2.0
 
 Game system information and mechanics are licensed under the Open Game License (OPEN GAME LICENSE Version 1.0a).
 
