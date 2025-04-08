@@ -1,0 +1,91 @@
+{
+  "name": "Effect: Advanced Strategy",
+  "type": "effect",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Granted by @UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.q86ta3UvKd6N44BS]{Advanced Strategy} </p><p>You Devise a Stratagem.</p>"
+    },
+    "rules": [
+      {
+        "key": "TokenMark",
+        "slug": "advanced-strategy"
+      },
+      {
+        "key": "SubstituteRoll",
+        "predicate": [
+          "target:mark:advanced-strategy"
+        ],
+        "removeAfterRoll": "if-enabled",
+        "required": true,
+        "selector": "strike-attack-roll",
+        "slug": "advanced-strategy",
+        "value": "@item.badge.value"
+      }
+    ],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": []
+    },
+    "publication": {
+      "title": "PF2e Hero Point Deck Expansion",
+      "authors": "",
+      "license": "OGL",
+      "remaster": true
+    },
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": -1,
+      "unit": "unlimited",
+      "expiry": null,
+      "sustained": false
+    },
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "tokenIcon": {
+      "show": true
+    },
+    "badge": {
+      "type": "formula",
+      "value": "1",
+      "evaluate": true,
+      "reevaluate": null
+    },
+    "context": null,
+    "unidentified": false
+  },
+  "img": "icons/sundries/gaming/playing-cards-brown.webp",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "AhhBYTk3xYRMuz4T": 3
+  },
+  "flags": {
+    "exportSource": {
+      "world": "seven-dooms-for-sandpoint",
+      "system": "pf2e",
+      "coreVersion": "12.331",
+      "systemVersion": "6.11.1"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1"
+  },
+  "_id": "4xFVJqqB3aPpnTQp",
+  "sort": 200000,
+  "_key": "!items!4xFVJqqB3aPpnTQp"
+}

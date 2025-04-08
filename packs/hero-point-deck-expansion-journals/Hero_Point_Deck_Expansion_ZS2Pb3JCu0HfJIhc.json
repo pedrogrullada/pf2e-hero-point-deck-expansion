@@ -390,7 +390,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play at the start of your turn.</p><hr /><p>You @UUID[Compendium.pf2e.actionspf2e.Item.m0f2B7G9eaaTmhFL]{Devise a Stratagem}. If you don't already have Devise a Stratagem, you can't use Intelligence instead of your usual modifier when substituting the result of your attack roll.</p><hr /><p><strong>Special</strong> If you already have Devise a Stratagem, you can play this card to reroll the result of your d20 when using that ability, ignoring the usual restriction from the fortune trait. You must keep the new result.</p>"
+        "content": "<p>Play at the start of your turn.</p><hr /><p>You @UUID[Compendium.pf2e.actionspf2e.Item.m0f2B7G9eaaTmhFL]{Devise a Stratagem}. If you don't already have Devise a Stratagem, you can't use Intelligence instead of your usual modifier when substituting the result of your attack roll, and you can only use an attack stratagem.</p><p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-effects.Item.4xFVJqqB3aPpnTQp]{Effect: Advanced Strategy}</p><hr /><p><strong>Special</strong> If you already have Devise a Stratagem, you can play this card to reroll the result of your d20 when using that ability, ignoring the usual restriction from the fortune trait. You must keep the new result.</p>"
       },
       "video": {
         "controls": true,
