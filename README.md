@@ -1,6 +1,5 @@
 # PF2e Hero Point Deck Unofficial Expansion
 A simple compendium module containing a journal with several unofficial cards<sup>1</sup> to expand upon the original Hero Point Deck, as well as rollable tables incorporating these new cards with it, and tweaks for some of its cards.
-
 ## What is the Hero Point Deck?
 It is a [deck of cards sold by Paizo](https://paizo.com/products/btq024ut) to use in conjunction with Hero Points. Each card has a trigger and an effect that you must spend a Hero Point to use, and when you do, you discard both the card and the Hero Point. In that sense, you can think of the card as representing your Hero Point. You can still spend Hero Points for their normal reroll and death-prevention uses.
 ## What does the expansion contain?
@@ -14,12 +13,16 @@ Once you have enabled the module, you will see a compendium folder named "Hero P
 While rollable tables are sufficient to draw random cards, I highly recommend you make use of the [PF2e Toolbelt](https://foundryvtt.com/packages/pf2e-toolbelt) module's [Hero Actions](https://github.com/reonZ/pf2e-toolbelt/wiki/Hero-Actions) feature. The module will allow your players to use, discard, and even trade cards amongst each other, all from their own character sheets! All you need to do is go to PF2e Toolbelt's settings and link the appropriate table to draw cards from. See picture below for reference and follow the the instructions in PF2e Toolbelt's settings.
 
 ![](./assets/toolbelt-setting.webp)
+## A word on Kineticist
+Kineticist is mechanically unique, and many cards do not take these mechanics into account. Here are some quick and dirty rules to allow kineticists to use these cards. For the purposes of using or triggering Hero Point Card:
+- A kineticist can treat an Elemental Blast as a Strike. If needed, they count as an unarmed attack in the brawling group.
+- A 2-action impulse (including Elemental Blast) can be treated as a cantrip.
 
+As a GM, you should feel free to improvise and allow a card to work with kineticist if you think it should.
 # Licenses
 All the scripts are modified versions of the scripts found in the [PF2e Playtest Data](https://github.com/TikaelSol/pf2e-playtest-data) module, licensed under the Apache License 2.0
 
 Game system information and mechanics are licensed under the Open Game License (OPEN GAME LICENSE Version 1.0a).
 
 ---
-
 <sup><sub>1. It is all journal entries, there were no actual cards involved in the making of this module.</sub></sup>
