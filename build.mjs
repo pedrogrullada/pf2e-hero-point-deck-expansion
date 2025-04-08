@@ -21,7 +21,7 @@ for (const pack of packFolders) {
 }
 
 // Copy files and folders to output
-const files = ["licenses", "module.json"];
+const files = ["assets", "licenses", "module.json"];
 for (const file of files) {
     await fs.cp(file, path.resolve(outDir, file), { recursive: true });
 }
