@@ -29,7 +29,7 @@ If you want to make a data contribution, follow these steps.
 4. Run `npm run build` to build the module from the source.
 5. Make sure Foundry is closed, run `npm run link`, and enter the path to your Foundry's user data folder. Keep in mind this will delete any existing version of the module in that folder, and it will create a symlink between your cloned repo and the module in your Foundry.
 6. From here, you can start working on the module inside Foundry. Once you're done working, close Foundry.
-7. run `npm run extractPacks` to extract the changes you made in Foundry into your cloned repo.
+7. Run `npm run extractPacks` to extract the changes you made in Foundry into your cloned repo.
 8. Commit and push, then create a PR.
 
 For a more in-depth walkthrough on Data Entry contributions, visit the PF2e system wiki's page [Helping with Data Entry](https://github.com/foundryvtt/pf2e/wiki/Helping-with-Data-Entry).
@@ -37,6 +37,15 @@ For a more in-depth walkthrough on Data Entry contributions, visit the PF2e syst
 All the scripts are adaptations of the scripts found in the [PF2e Playtest Data](https://github.com/TikaelSol/pf2e-playtest-data) module, licensed under the Apache License 2.0
 
 Game system information and mechanics are licensed under the Open Game License (OPEN GAME LICENSE Version 1.0a).
+
+# Acknowledgements
+I want to give a special thanks to:
+
+Tikael and all contributors of the PF2e Playtest Data module, which served as the blueprint for most of this module's non-data content.
+
+The [Tabletop Gold Podcast](https://www.tabletopgold.com/), which got me started on the journey of making all these cards with their listener submissions.
+
+Thanks to Paizo for making an awesome game and making it easy for people to make stuff with it.
 
 ---
 <sup><sub>1. It is all journal entries, there were no actual cards involved in the making of this module.</sub></sup>
