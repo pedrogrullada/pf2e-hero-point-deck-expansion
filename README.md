@@ -19,6 +19,20 @@ Kineticist is mechanically unique, and many cards do not take these mechanics in
 - A 2-action impulse (including Elemental Blast) can be treated as a cantrip.
 
 As a GM, you should feel free to improvise and allow a card to work with kineticist if you think it should.
+# Contributing
+If you find any errors feel free to [open an issue](https://github.com/TikaelSol/pf2e-playtest-data/issues) and I'll get to it as soon as possible.
+
+If you want to make a data contribution, follow these steps.
+1. Fork this repository and clone it.
+2. Install [NodeJS](https://nodejs.org/en) and [Git](https://git-scm.com/downloads).
+3. Navigate to your cloned repo and run `npm ci`.
+4. Run `npm run build` to build the module from the source.
+5. Make sure Foundry is closed, run `npm run link`, and enter the path to your Foundry's user data folder. Keep in mind this will delete any existing version of the module in that folder, and it will create a symlink between your cloned repo and the module in your Foundry.
+6. From here, you can start working on the module inside Foundry. Once you're done working, close Foundry.
+7. run `npm run extractPacks` to extract the changes you made in Foundry into your cloned repo.
+8. Commit and push, then create a PR.
+
+For a more in-depth walkthrough on Data Entry contributions, visit the PF2e system wiki's page [Helping with Data Entry](https://github.com/foundryvtt/pf2e/wiki/Helping-with-Data-Entry).
 # Licenses
 All the scripts are adaptations of the scripts found in the [PF2e Playtest Data](https://github.com/TikaelSol/pf2e-playtest-data) module, licensed under the Apache License 2.0
 
