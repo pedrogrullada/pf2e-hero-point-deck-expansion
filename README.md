@@ -11,7 +11,9 @@ It is a [deck of cards sold by Paizo](https://paizo.com/products/btq024ut) to us
 ## How to use this module?
 Once you have enabled the module, you will see a compendium folder named "Hero Point Deck Expansion" containing three compendia. If you want to browse the cards, go to the journals compendium to see the expansion and patched cards. Once you're ready to start drawing random cards, go to the module's tables compendium and drag the table you want to your macro bar!
 
-While rollable tables are sufficient to draw random cards, I highly recommend you make use of the [PF2e Toolbelt](https://foundryvtt.com/packages/pf2e-toolbelt) module's [Hero Actions](https://github.com/reonZ/pf2e-toolbelt/wiki/Hero-Actions) feature. The module will allow your players to use, discard, and even trade cards amongst each other, all from their own character sheets! All you need to do is go to PF2e Toolbelt's settings and link the appropriate table to draw cards from.
+While rollable tables are sufficient to draw random cards, I highly recommend you make use of the [PF2e Toolbelt](https://foundryvtt.com/packages/pf2e-toolbelt) module's [Hero Actions](https://github.com/reonZ/pf2e-toolbelt/wiki/Hero-Actions) feature. The module will allow your players to use, discard, and even trade cards amongst each other, all from their own character sheets! All you need to do is go to PF2e Toolbelt's settings and link the appropriate table to draw cards from. See picture below for reference and follow the the instructions in PF2e Toolbelt's settings.
+
+![](./assets/toolbelt-setting.webp)
 
 # Licenses
 All the scripts are modified versions of the scripts found in the [PF2e Playtest Data](https://github.com/TikaelSol/pf2e-playtest-data) module, licensed under the Apache License 2.0
