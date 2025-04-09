@@ -1,0 +1,191 @@
+{
+  "name": "Effect: Symbolic Rites",
+  "type": "effect",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Granted by @UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.LzgzqXne3ASqxMV3]{Symbolic Rites}</p><p>Your Strikes, spells and impulses deal 1 additional damage of an energy type of your choice, or they gain a trait allowed by your deity's divine sanctification.</p>"
+    },
+    "rules": [
+      {
+        "adjustName": false,
+        "key": "ChoiceSet",
+        "choices": [
+          {
+            "label": "Add energy damage",
+            "value": "energy"
+          },
+          {
+            "label": "Add deity trait",
+            "value": "deity",
+            "predicate": [
+              "deity",
+              {
+                "not": "deity:primary:sanctification:none"
+              }
+            ]
+          }
+        ],
+        "prompt": "Choose how your damage will be affected.",
+        "rollOption": "symbolic-rites"
+      },
+      {
+        "adjustName": false,
+        "choices": [
+          {
+            "label": "PF2E.TraitHoly",
+            "predicate": [
+              {
+                "or": [
+                  "deity:primary:sanctification:can:holy",
+                  "deity:primary:sanctification:must:holy"
+                ]
+              }
+            ],
+            "value": "holy"
+          },
+          {
+            "label": "PF2E.TraitUnholy",
+            "predicate": [
+              {
+                "or": [
+                  "deity:primary:sanctification:can:unholy",
+                  "deity:primary:sanctification:must:unholy"
+                ]
+              }
+            ],
+            "value": "unholy"
+          }
+        ],
+        "key": "ChoiceSet",
+        "predicate": [
+          "symbolic-rites:deity"
+        ],
+        "prompt": "PF2E.SpecificRule.Prompt.Sanctification",
+        "flag": "symbolicRitesTrait"
+      },
+      {
+        "adjustName": false,
+        "key": "ChoiceSet",
+        "choices": {
+          "config": "energyDamageTypes"
+        },
+        "flag": "symbolicRitesEnergy",
+        "predicate": [
+          "symbolic-rites:energy"
+        ]
+      },
+      {
+        "key": "FlatModifier",
+        "selector": "damage",
+        "value": 1,
+        "damageType": "{item|flags.pf2e.rulesSelections.symbolicRitesEnergy}",
+        "hideIfDisabled": true,
+        "predicate": [
+          "symbolic-rites:energy",
+          {
+            "or": [
+              "item:trait:impulse",
+              "item:type:spell",
+              "action:strike"
+            ]
+          }
+        ]
+      },
+      {
+        "key": "ItemAlteration",
+        "mode": "add",
+        "value": "{item|flags.pf2e.rulesSelections.symbolicRitesTrait}",
+        "property": "traits",
+        "itemType": "weapon",
+        "predicate": [
+          "symbolic-rites:deity"
+        ]
+      },
+      {
+        "key": "ItemAlteration",
+        "mode": "add",
+        "value": "{item|flags.pf2e.rulesSelections.symbolicRitesTrait}",
+        "property": "traits",
+        "itemType": "spell",
+        "predicate": [
+          "symbolic-rites:deity"
+        ]
+      },
+      {
+        "key": "ItemAlteration",
+        "mode": "add",
+        "value": "{item|flags.pf2e.rulesSelections.symbolicRitesTrait}",
+        "property": "traits",
+        "itemType": "action",
+        "predicate": [
+          "symbolic-rites:deity",
+          "item:trait:impulse"
+        ]
+      },
+      {
+        "key": "ItemAlteration",
+        "mode": "add",
+        "value": "{item|flags.pf2e.rulesSelections.symbolicRitesTrait}",
+        "property": "traits",
+        "itemType": "feat",
+        "predicate": [
+          "symbolic-rites:deity",
+          "item:trait:impulse"
+        ]
+      }
+    ],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": []
+    },
+    "publication": {
+      "title": "PF2e Hero Point Deck Expansion",
+      "authors": "",
+      "license": "OGL",
+      "remaster": true
+    },
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": 1,
+      "unit": "rounds",
+      "expiry": "turn-end",
+      "sustained": false
+    },
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "tokenIcon": {
+      "show": true
+    },
+    "badge": null,
+    "context": null,
+    "unidentified": false
+  },
+  "img": "icons/sundries/gaming/playing-cards-brown.webp",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "AhhBYTk3xYRMuz4T": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1"
+  },
+  "_id": "CFiEvZUKBEwDr3zV",
+  "sort": 0,
+  "_key": "!items!CFiEvZUKBEwDr3zV"
+}

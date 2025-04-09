@@ -150,7 +150,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play when a conscious ally within your Speed becomes inflicted with a harmful condition.</p><hr /><p>You Stride to a space adjacent to that ally, slapping them across the face, shaking both their shoulders, or just giving them a piece of your mind. You attempt to counteract the triggering condition using an unarmed attack roll, or a skill check at the GM's discretion, such as Diplomacy to rally them up, or Religion to pray to your deity.</p><hr /><p><strong>Special </strong>You can use this card while Burrowing, Climbing, Flying or Swimming instead of Striding if you have the corresponding movement type.</p>",
+        "content": "<p>Play when a conscious ally within your Speed becomes inflicted with a harmful condition.</p><hr /><p>You Stride to a space adjacent to that ally, slapping them across the face, shaking both their shoulders, or just giving them a piece of your mind. You attempt to counteract the triggering condition using an unarmed attack roll, or a skill check at the GM's discretion, such as Diplomacy to rally them up, or Religion to pray to your deity.</p><p>Your counteract rank is half your level rounded up.</p><hr /><p><strong>Special </strong>You can use this card while Burrowing, Climbing, Flying, or Swimming if you have the corresponding movement type.</p>",
         "markdown": ""
       },
       "video": {
@@ -515,7 +515,7 @@
     },
     {
       "sort": 1700000,
-      "name": "Don't Underestimate Us",
+      "name": "Exploit Conceit",
       "type": "text",
       "_id": "Of1MykhHbIvXVM3m",
       "system": {},
@@ -560,7 +560,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play when an enemy Casts a Spell, you have a reaction, and at least one spell slot available.</p><hr /><p>You spend a spell slot and as a reaction you attempt to @UUID[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.E4Q7EiSG18sIvFwg]{Counteract} the triggering spell, using the rank of your spent spell slot as your counteract rank. This effect has the trait corresponding to the tradition of the spell slot used. If you have the @UUID[Compendium.pf2e.feats-srd.Item.EpBG4CFMNSZQx7vI]{Counterspell} feat, your counteract rank counts as one higher.</p>"
+        "content": "<p>Play when an enemy Casts a Spell, you have a reaction, and at least one spell slot available.</p><hr /><p>You spend a spell slot and as a reaction you attempt to @UUID[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.E4Q7EiSG18sIvFwg]{Counteract} the triggering spell, using the rank of your spent spell slot as your counteract rank. This effect has the trait corresponding to the tradition of the spell slot used.</p><hr /><p><strong>Special</strong> If you have the @UUID[Compendium.pf2e.feats-srd.Item.EpBG4CFMNSZQx7vI]{Counterspell} feat, your counteract rank for this effect counts as one higher.</p>"
       },
       "video": {
         "controls": true,
@@ -628,7 +628,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play when you roll a natural 1 on any check during an encounter.</p><hr /><p>You willingly accept an otherworldly curse offered by an agent of chaos witnessing your battle. The triggering result becomes a natural 20 instead. However, the next natural 20 you roll in an encounter becomes a natural 1, and you can't change this result.</p><p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-effects.Item.IAqtfUOSpLVDZpMC]{Effect: Curse of Temporal Discounting}</p>"
+        "content": "<p>Play when you roll a natural 1 on any check during an encounter.</p><hr /><p>You willingly accept an otherworldly curse offered by an agent of chaos witnessing your battle. The triggering result becomes a natural 20 instead. However, the next natural 20 you roll in an encounter becomes a natural 1, which you must keep.</p><p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-effects.Item.IAqtfUOSpLVDZpMC]{Effect: Curse of Temporal Discounting}</p>"
       },
       "video": {
         "controls": true,
@@ -866,7 +866,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play when you would roll a Diplomacy check.</p><hr /><p>You automatically receive a result of 20 + your Diplomacy modifier on your check instead of rolling. This does not increase your degree of success like rolling a 20 would.</p>"
+        "content": "<p>Play when you would roll a Diplomacy check.</p><hr /><p>You automatically receive a result of 20 + your Diplomacy modifier on your check instead of rolling. Unlike a natural 20, this does not increase your degree of success, unless the result exceeds the DC by 10 or more.</p>"
       },
       "video": {
         "controls": true,
@@ -968,7 +968,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play when an ally is hit by a Strike for which you would be a valid target.</p><hr /><p>You become the target of the Strike instead of your ally.</p>"
+        "content": "<p>Play when an ally is targeted with an enemy's ability for which you would be a valid target.</p><hr /><p>You use a pointed insult, feign an opening, or otherwise make yourself an easy target. You become the target instead of your ally.</p>"
       },
       "video": {
         "controls": true,
@@ -1056,6 +1056,176 @@
         "systemVersion": "6.11.1"
       },
       "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.uuiRjyPcLmjCkTVE"
+    },
+    {
+      "sort": 3200000,
+      "name": "I Have to Toss You",
+      "type": "text",
+      "_id": "rcOVZQph8XT439l0",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when you are adjacent to an ally and you have at least one hand free.</p><hr /><p>You simply must toss them. You pick up that ally and make an Athletics check. You toss them to an unoccupied space you can see that is within the result of your check in feet, rounded down to the nearest 5 foot increment.</p><hr /><p><strong>Special</strong> If you have @UUID[Compendium.pf2e.feats-srd.Item.V9kShXu84NlORfcg]{Friendly Toss} or another similar feat, the card allows you to use that instead (at no action cost, as usual for Hero Point cards).</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.11.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.rcOVZQph8XT439l0"
+    },
+    {
+      "sort": 3300000,
+      "name": "Get Down!",
+      "type": "text",
+      "_id": "Bs6Tb3FZOZApqXi1",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when an ally you can see would be reduced to 0 Hit Points by an effect targeted at them.</p><hr /><p>Time slows down for you as you see your ally in mortal danger. You Stride toward the triggering ally. If you are adjacent to them at the end of this movement, you receive all the damage from the triggering effect instead. This damage can't be reduced in any way.</p><hr /><p><strong>Special</strong> You can Fly, Swim or Climb instead if you have the corresponding speed.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.11.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.Bs6Tb3FZOZApqXi1"
+    },
+    {
+      "sort": 3400000,
+      "name": "Helping Hand",
+      "type": "text",
+      "_id": "4XY7hkB5tDDvU0oH",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when an ally is about to use an action that could benefit from @UUID[Compendium.pf2e.actionspf2e.Item.HCl3pzVefiv9ZKQW]{Aid}.</p><hr /><p>You can use the Aid reaction even if you haven't prepared to help. You must still fulfill the other requirements to Aid, such as determining how you are helping and being in a position to do so.</p><hr /><p><strong>Special</strong> You can play this card if you were already able to Aid to increase the degree of success of your Aid check instead.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.11.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.4XY7hkB5tDDvU0oH"
+    },
+    {
+      "sort": 3500000,
+      "name": "Rash Rush",
+      "type": "text",
+      "_id": "LkY8ZvDkp87WEwGd",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play at the start of your turn.</p><hr /><p>You suddenly hasten your movements. You become @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Quickened} for this turn and can use the extra action to Interact, Strike, or take a single action with the move trait. At the end of your turn, you become @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Slowed 1} for 1 round, as you are forced to briefly catch your breath after.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.11.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.LkY8ZvDkp87WEwGd"
+    },
+    {
+      "sort": 3600000,
+      "name": "Symbolic Rites",
+      "type": "text",
+      "_id": "LzgzqXne3ASqxMV3",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play during your turn.</p><hr /><p>You employ an obscure thaumaturgic symbol on your weapon or across your arm, invoking the ability to potentially exploit a weakness. Until the end of your next turn, your Strikes and spells deals 1 additional damage of an energy damage type of your choice. If you worship a deity, they can instead gain a trait allowed by its divine sanctification.</p><p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-effects.Item.CFiEvZUKBEwDr3zV]{Effect: Symbolic Rites}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.11.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.LzgzqXne3ASqxMV3"
     }
   ],
   "folder": null,

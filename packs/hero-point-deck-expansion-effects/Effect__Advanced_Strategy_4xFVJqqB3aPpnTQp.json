@@ -70,14 +70,7 @@
     "default": 0,
     "AhhBYTk3xYRMuz4T": 3
   },
-  "flags": {
-    "exportSource": {
-      "world": "seven-dooms-for-sandpoint",
-      "system": "pf2e",
-      "coreVersion": "12.331",
-      "systemVersion": "6.11.1"
-    }
-  },
+  "flags": {},
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
