@@ -866,7 +866,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play when you would roll a Diplomacy check.</p><hr /><p>You automatically receive a result of 20 + your Diplomacy modifier on your check instead of rolling. Unlike a natural 20, this does not increase your degree of success, unless the result exceeds the DC by 10 or more.</p>"
+        "content": "<p>Play when you would roll a Diplomacy check.</p><hr /><p>You automatically receive a result of 20 + your Diplomacy modifier on your check instead of rolling. Unlike a natural 20, this does not increase your degree of success unless the result exceeds the DC by 10 or more.</p>"
       },
       "video": {
         "controls": true,
@@ -1070,7 +1070,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play when you are adjacent to an ally and you have at least one hand free.</p><hr /><p>You simply must toss them. You pick up that ally and make an Athletics check. You toss them to an unoccupied space you can see that is within the result of your check in feet, rounded down to the nearest 5 foot increment.</p><hr /><p><strong>Special</strong> If you have @UUID[Compendium.pf2e.feats-srd.Item.V9kShXu84NlORfcg]{Friendly Toss} or another similar feat, the card allows you to use that instead (at no action cost, as usual for Hero Point cards).</p>"
+        "content": "<p>Play when you are adjacent to an ally of your size or smaller, and you have at least one hand free.</p><hr /><p>You simply must toss them. You pick up that ally and make an Athletics check. You toss them to an unoccupied space you can see that is within the result of your check in feet, rounded down to the nearest 5 foot increment.</p><hr /><p><strong>Special</strong> If you have @UUID[Compendium.pf2e.feats-srd.Item.V9kShXu84NlORfcg]{Friendly Toss} or another similar feat, the card allows you to use that instead (at no action cost, as usual for Hero Point cards).</p>"
       },
       "video": {
         "controls": true,
