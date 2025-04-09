@@ -1,7 +1,7 @@
 {
   "description": "<p>A table including the original Hero Point Deck by Paizo, in addition to an expansion with several extra cards.</p>",
   "displayRoll": true,
-  "formula": "1d83",
+  "formula": "1d88",
   "img": "icons/svg/d20-grey.svg",
   "name": "Hero Point Deck (Expanded)",
   "ownership": {
@@ -1254,6 +1254,81 @@
       "documentId": null,
       "flags": {},
       "_key": "!tables.results!7mXdDJZM666rQfZl.oxnev5J3j3bZXAkN"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "_id": "cmZmrJOSKnIYwp3T",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.rcOVZQph8XT439l0]{I Have to Toss You}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!7mXdDJZM666rQfZl.cmZmrJOSKnIYwp3T"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "_id": "eVcNRC7l4LVjiKEE",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.Bs6Tb3FZOZApqXi1]{Get Down!}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!7mXdDJZM666rQfZl.eVcNRC7l4LVjiKEE"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "_id": "yPihfXfkZwaNO0SO",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.4XY7hkB5tDDvU0oH]{Helping Hand}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!7mXdDJZM666rQfZl.yPihfXfkZwaNO0SO"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "_id": "mcOo9KXoZWiUzXjb",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.LkY8ZvDkp87WEwGd]{Rash Rush}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!7mXdDJZM666rQfZl.mcOo9KXoZWiUzXjb"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "_id": "DU5mGGHkPh8CkkR4",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.LzgzqXne3ASqxMV3]{Symbolic Rites}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!7mXdDJZM666rQfZl.DU5mGGHkPh8CkkR4"
     }
   ],
   "_stats": {

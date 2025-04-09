@@ -696,7 +696,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play when you use a spell or impulse that has an area of effect.</p><hr /><p>You spread your energy over a wider region. You can use the @UUID[Compendium.pf2e.feats-srd.Item.FoWO4RnHRwfEIC7Q]{Widen Spell} spellshape with its usual action cost.</p><hr /><p><strong>Special</strong> If you already have Widen Spell you can instead play this card to use it as a free action.</p>"
+        "content": "<p>Play when you use a spell that has an area of effect.</p><hr /><p>You spread your energy over a wider region. You can use the @UUID[Compendium.pf2e.feats-srd.Item.FoWO4RnHRwfEIC7Q]{Widen Spell} spellshape with its usual action cost.</p><hr /><p><strong>Special</strong> If you already have Widen Spell you can instead play this card to use it as a free action.</p>"
       },
       "video": {
         "controls": true,
@@ -730,7 +730,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play when you use a spell or impulse with a range.</p><hr /><p>You stretch your energy to reach beyond its usual horizon. You can use the @UUID[Compendium.pf2e.feats-srd.Item.BWomK7EVY0WXxWgh]{Reach Spell} spellshape with its usual action cost.</p><hr /><p><strong>Special</strong> If you already have Reach Spell you can instead play this card to use it as a free action.</p>"
+        "content": "<p>Play when you use a spell with a range.</p><hr /><p>You stretch your energy to reach beyond its usual horizon. You can use the @UUID[Compendium.pf2e.feats-srd.Item.BWomK7EVY0WXxWgh]{Reach Spell} spellshape with its usual action cost.</p><hr /><p><strong>Special</strong> If you already have Reach Spell you can instead play this card to use it as a free action.</p>"
       },
       "video": {
         "controls": true,
