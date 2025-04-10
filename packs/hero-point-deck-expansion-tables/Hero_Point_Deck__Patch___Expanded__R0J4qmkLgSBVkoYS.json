@@ -1,7 +1,7 @@
 {
   "description": "<p>A table including the module's patch for the original Hero Point Deck, in addition to an expansion with several extra cards.</p>",
   "displayRoll": true,
-  "formula": "1d88",
+  "formula": "1d90",
   "img": "icons/svg/d20-grey.svg",
   "name": "Hero Point Deck (Patch + Expanded)",
   "ownership": {
@@ -1329,6 +1329,36 @@
       "documentId": null,
       "flags": {},
       "_key": "!tables.results!R0J4qmkLgSBVkoYS.QSXk571gMkIMfilp"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "_id": "3C8X3p1m9883fxWY",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.Ix9oqP8A2q1lrlb5]{Fortunate Misfortune}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.3C8X3p1m9883fxWY"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "_id": "CcZhzk4PcVsvJmxT",
+      "text": "@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.Y8pjfzoEQ7ZqHOCg]{Competitive Strike}",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {},
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.CcZhzk4PcVsvJmxT"
     }
   ],
   "_stats": {

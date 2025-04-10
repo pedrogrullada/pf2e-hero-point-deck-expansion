@@ -968,7 +968,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play when an ally is targeted with an enemy's ability for which you would be a valid target.</p><hr /><p>You use a pointed insult, feign an opening, or otherwise make yourself an easy target. You become the target instead of your ally.</p>"
+        "content": "<p>Play when an ally is targeted with an enemy's Strike, spell, or other ability for which you would be a valid target.</p><hr /><p>You use a pointed insult, feign an opening, or otherwise make yourself an easy target. You become the target instead of your ally.</p>"
       },
       "video": {
         "controls": true,
@@ -1002,7 +1002,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play when you hit, but not critically hit, an enemy with a Strike.</p><hr /><p>You benefit from your weapon or unarmed attack's critical specialization effect, as well the additional effect as though you had the @UUID[Compendium.pf2e.equipment-srd.Item.qUnDHEXteUQGE8yp]{Grievous} rune.</p><p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-effects.Item.mcb5Rie1D4QG3LGk]{Effect: Weapon Specialist}</p>"
+        "content": "<p>Play when you hit, but not critically hit, an enemy with a Strike.</p><hr /><p>You benefit from your weapon or unarmed attack's critical specialization effect, as well its additional effect from the @UUID[Compendium.pf2e.equipment-srd.Item.qUnDHEXteUQGE8yp]{Grievous} rune.</p><p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-effects.Item.mcb5Rie1D4QG3LGk]{Effect: Weapon Specialist}</p>"
       },
       "video": {
         "controls": true,
@@ -1226,6 +1226,74 @@
         "systemVersion": "6.11.1"
       },
       "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.LzgzqXne3ASqxMV3"
+    },
+    {
+      "sort": 3700000,
+      "name": "Fortunate Misfortune",
+      "type": "text",
+      "_id": "Ix9oqP8A2q1lrlb5",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when a foe succeeds on an attack roll or skill check.</p><hr /><p>Your enemy suddenly struck by misfortune. The triggering enemy rerolls their check and keeps the lower result.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.11.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.Ix9oqP8A2q1lrlb5"
+    },
+    {
+      "sort": 3800000,
+      "name": "Competitive Strike",
+      "type": "text",
+      "_id": "Y8pjfzoEQ7ZqHOCg",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play at the start of your turn.</p><hr /><p>You challenge your ally to attack the same enemy, and your competitive spirit elevates them! The next Strike you make this turn counts as the preparations to @UUID[Compendium.pf2e.actionspf2e.Item.HCl3pzVefiv9ZKQW]{Aid} your ally with their next attack against the same target, using the result of your Strike as the check to Aid instead of rolling.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pf2e",
+        "systemVersion": "6.11.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.Y8pjfzoEQ7ZqHOCg"
     }
   ],
   "folder": null,
