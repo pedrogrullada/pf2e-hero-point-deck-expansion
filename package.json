@@ -4,6 +4,7 @@
   "description": "",
   "scripts": {
     "build": "node build.mjs",
+    "watch": "node build.mjs --watch",
     "extractPacks": "node extract-packs.mjs",
     "link": "node link.mjs"
   },
