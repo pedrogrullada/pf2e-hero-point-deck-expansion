@@ -30,7 +30,10 @@
       },
       {
         "key": "FlatModifier",
-        "selector": "check",
+        "selector": [
+          "attack-roll",
+          "skill-check"
+        ],
         "value": "1 + @item.flags.pf2e.rulesSelections.batonPass",
         "type": "circumstance",
         "removeAfterRoll": "if-enabled",
@@ -86,9 +89,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.346",
     "systemId": "pf2e",
-    "systemVersion": "6.11.1"
+    "systemVersion": "7.2.3",
+    "exportSource": null
   },
   "_key": "!items!ouNWLIg54qdlsaeZ"
 }

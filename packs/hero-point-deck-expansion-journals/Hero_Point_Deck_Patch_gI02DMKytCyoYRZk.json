@@ -3,7 +3,7 @@
   "_id": "gI02DMKytCyoYRZk",
   "pages": [
     {
-      "sort": 100000,
+      "sort": 200000,
       "name": "Rage and Fury",
       "type": "text",
       "_id": "Q0VHx9WidEcJkZhB",
@@ -30,14 +30,16 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
-        "coreVersion": "12.331",
+        "coreVersion": "13.346",
         "systemId": "pf2e",
-        "systemVersion": "6.10.2"
+        "systemVersion": "6.10.2",
+        "exportSource": null
       },
+      "category": null,
       "_key": "!journal.pages!gI02DMKytCyoYRZk.Q0VHx9WidEcJkZhB"
     },
     {
-      "sort": 200000,
+      "sort": 300000,
       "name": "Battle Cry",
       "type": "text",
       "_id": "yYRj0xk5LrymY4HH",
@@ -64,17 +66,19 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
-        "coreVersion": "12.331",
+        "coreVersion": "13.346",
         "systemId": "pf2e",
-        "systemVersion": "6.10.2"
+        "systemVersion": "6.10.2",
+        "exportSource": null
       },
+      "category": null,
       "_key": "!journal.pages!gI02DMKytCyoYRZk.yYRj0xk5LrymY4HH"
     },
     {
       "_id": "Gu6CHAPMigpV9awj",
       "image": {},
       "name": "Tumble Through",
-      "sort": 200000,
+      "sort": 400000,
       "src": null,
       "system": {},
       "text": {
@@ -93,22 +97,24 @@
       "_stats": {
         "compendiumSource": "Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.Gu6CHAPMigpV9awj",
         "duplicateSource": null,
-        "coreVersion": "12.331",
+        "coreVersion": "13.346",
         "systemId": "pf2e",
-        "systemVersion": "6.10.2"
+        "systemVersion": "6.10.2",
+        "exportSource": null
       },
       "ownership": {
         "default": -1,
         "zi8YqZ1aO7op2Zk7": 3
       },
       "flags": {},
+      "category": null,
       "_key": "!journal.pages!gI02DMKytCyoYRZk.Gu6CHAPMigpV9awj"
     },
     {
       "_id": "D6hqfmZUksRvqNFR",
       "image": {},
       "name": "Fluid Motion",
-      "sort": 200000,
+      "sort": 500000,
       "src": null,
       "system": {},
       "text": {
@@ -127,19 +133,21 @@
       "_stats": {
         "compendiumSource": "Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.D6hqfmZUksRvqNFR",
         "duplicateSource": null,
-        "coreVersion": "12.331",
+        "coreVersion": "13.346",
         "systemId": "pf2e",
-        "systemVersion": "6.10.2"
+        "systemVersion": "6.10.2",
+        "exportSource": null
       },
       "ownership": {
         "default": -1,
         "zi8YqZ1aO7op2Zk7": 3
       },
       "flags": {},
+      "category": null,
       "_key": "!journal.pages!gI02DMKytCyoYRZk.D6hqfmZUksRvqNFR"
     },
     {
-      "sort": 0,
+      "sort": 100000,
       "name": "Hero Point Deck Patches",
       "type": "text",
       "_id": "6bLWSIiJNLAAzG8Q",
@@ -151,7 +159,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>The original Hero Point Deck has quite some disparity between the worst and the best cards, and while I don't claim to strike a perfect balance, I will try to bridge the gap between them. Some cards are situational and that's fine, as long as they are good in the situation they're designed for.</p><blockquote><p><strong>Foundry Note:</strong> Effect items for these patched cards have an * symbol appended to their name, as to differentiate them from the system's original effects.</p></blockquote><hr /><ul><li><p><strong>Rage and Fury</strong></p><ul><li>Changed its effects to take place immediately instead of at the start of your next turn, and the duration is now \"until the end of your next turn\".</li><li>Additional damage now scales with weapon specialization and greater weapon specialization.</li><li>Added temporary Hit Points equal to your level.</li></ul></li><li><p><strong>Battle Cry</strong></p><ul><li>You don't take a penalty if the enemies don't understand your language.</li></ul></li><li><p><strong>Tumble Through</strong></p><ul><li>Change the trigger line to \"Play when you move into a space adjacent to a creature that is larger than you.\", allowing the card to be played during a move action, instead of just after.</li></ul></li><li><p><strong>Fluid Motion</strong></p><ul><li>Increase the climb and swim Speeds to be equal to your Speed rather than half.</li></ul></li><li><p><strong>Hasty Block</strong></p><ul><li><p>WIP</p></li></ul></li><li><p><strong>Healing Prayer</strong></p><ul><li>Tweak the scaling of the healing to progress more steadily across levels.</li></ul></li><li><p><strong>Channel Life Force</strong></p><ul><li>You no longer become drained 1 after using the regained focus point.</li></ul></li></ul>"
+        "content": "<p>The original Hero Point Deck has quite some disparity between the worst and the best cards, and while I don't claim to strike a perfect balance, I will try to bridge the gap between them. Some cards are situational and that's fine, to an extent, and as long as they are good in the situation they're designed for.</p><p><em><strong>Foundry Usage Note:</strong> Effect items for these patched cards have an asterisk (*) symbol appended to their name, as to differentiate them from the system's effects while searching the compendium.</em></p><hr /><ul><li><p><strong>Rage and Fury</strong></p><ul><li>Changed its effects to take place immediately instead of at the start of your next turn, and the duration is now \"until the end of your next turn\".</li><li>Additional damage now scales with weapon specialization and greater weapon specialization.</li><li>Added temporary Hit Points equal to your level.</li></ul></li><li><p><strong>Battle Cry</strong></p><ul><li>You don't take a penalty if the enemies don't understand your language.</li></ul></li><li><p><strong>Tumble Through</strong></p><ul><li>Change the trigger line to \"Play when you move into a space adjacent to a creature that is larger than you.\", allowing the card to be played during a move action, instead of just after.</li></ul></li><li><p><strong>Fluid Motion</strong></p><ul><li>Increase the climb and swim Speeds to be equal to your Speed rather than half.</li></ul></li><li><p><strong>Hasty Block</strong></p><ul><li><p>Update the feat to not require a shield and instead use an improvised object as a shield, using the <em>shield</em> spell as a basis.</p></li></ul></li><li><p><strong>Healing Prayer</strong></p><ul><li>Tweak the scaling of the healing to progress more steadily across levels.</li></ul></li><li><p><strong>Channel Life Force</strong></p><ul><li>You no longer become drained 1 after using the regained focus point.</li></ul></li></ul>"
       },
       "video": {
         "controls": true,
@@ -166,17 +174,19 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
-        "coreVersion": "12.331",
+        "coreVersion": "13.346",
         "systemId": "pf2e",
-        "systemVersion": "6.10.2"
+        "systemVersion": "6.10.2",
+        "exportSource": null
       },
+      "category": null,
       "_key": "!journal.pages!gI02DMKytCyoYRZk.6bLWSIiJNLAAzG8Q"
     },
     {
       "_id": "Ttn2H0JHJVksChGi",
       "image": {},
       "name": "Healing Prayer",
-      "sort": 200000,
+      "sort": 700000,
       "src": null,
       "system": {},
       "text": {
@@ -195,19 +205,21 @@
       "_stats": {
         "compendiumSource": "Compendium.pf2e.journals.JournalEntry.BSp4LUSaOmUyjBko.JournalEntryPage.Ttn2H0JHJVksChGi",
         "duplicateSource": null,
-        "coreVersion": "12.331",
+        "coreVersion": "13.346",
         "systemId": "pf2e",
-        "systemVersion": "6.10.2"
+        "systemVersion": "6.10.2",
+        "exportSource": null
       },
       "ownership": {
         "default": -1,
         "zi8YqZ1aO7op2Zk7": 3
       },
       "flags": {},
+      "category": null,
       "_key": "!journal.pages!gI02DMKytCyoYRZk.Ttn2H0JHJVksChGi"
     },
     {
-      "sort": 300000,
+      "sort": 800000,
       "name": "Channel Life Force",
       "type": "text",
       "_id": "gX1rPa5d4HZZ7PjW",
@@ -234,11 +246,49 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
-        "coreVersion": "12.331",
+        "coreVersion": "13.346",
         "systemId": "pf2e",
-        "systemVersion": "6.10.2"
+        "systemVersion": "6.10.2",
+        "exportSource": null
       },
+      "category": null,
       "_key": "!journal.pages!gI02DMKytCyoYRZk.gX1rPa5d4HZZ7PjW"
+    },
+    {
+      "sort": 600000,
+      "name": "Hasty Block",
+      "type": "text",
+      "_id": "PBNU6dVJzZ4Sy8oG",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when you are hit by a physical attack.</p><hr /><p>You wield an object as though it were a shield, drawing it if necessary, and you @UUID[Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8]{Shield Block} with it. This improvised shield has the hardness of an appropriately heightened @UUID[Compendium.pf2e.spells-srd.Item.TVKNbcgTee19PXZR]{Shield} spell. If the drawn object is a shield, you can use its statistics instead.</p><p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-effects.Item.9K44WMpCef0qtPU6]{Effect: Hasty Block}</p><p>After blocking in this way with a non-shield object, instead of using normal material statistics, roll a @Check[flat|dc:10|showDC:all]. On a failure, the object is @UUID[Compendium.pf2e.conditionitems.Item.6dNUvdb1dhToNDj3]{Broken} (but not destroyed).</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "_key": "!journal.pages!gI02DMKytCyoYRZk.PBNU6dVJzZ4Sy8oG"
     }
   ],
   "folder": null,
@@ -251,9 +301,11 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.346",
     "systemId": "pf2e",
-    "systemVersion": "6.10.2"
+    "systemVersion": "6.10.2",
+    "exportSource": null
   },
+  "categories": [],
   "_key": "!journal!gI02DMKytCyoYRZk"
 }
