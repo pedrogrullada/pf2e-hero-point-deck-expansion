@@ -2,7 +2,7 @@
   "name": "Hero Point Deck Expansion",
   "pages": [
     {
-      "sort": 100000,
+      "sort": 700000,
       "name": "Temptation of Heroics",
       "type": "text",
       "_id": "zONyoexx01okt002",
@@ -196,7 +196,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play during your turn while you're able to use manipulate actions.</p><hr /><p>By planning ahead, you're able to have the right item at the right time. You Interact to draw a consumable item from your ally's inventory as though it were on your own.</p>"
+        "content": "<p>Play during your turn while you're able to use manipulate actions.</p><hr /><p>By planning ahead, you're able to have the right item at the right time. You Interact to draw a consumable item from your inventory, or from a willing ally's inventory as though it were on your own, in which case it must be an item you would've been able to carry unencumbered.</p>"
       },
       "video": {
         "controls": true,
@@ -232,7 +232,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play when you roll damage as a result of a critical success of yours, or an enemies' critical failure.</p><hr /><p>You push yourself to inflict even more punishment onto your foe, at the expense of your own safety. You can roll damage again and use the higher of the two results. If you use the new roll, you become @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1} for 1 round as a result of this reckless maneuver.</p>"
+        "content": "<p>Play when you roll damage as a result of a critical success of yours, or of an enemies' critical failure.</p><hr /><p>You push yourself to inflict even more punishment onto your foe, at the expense of your own safety. You can roll damage again and use the higher of the two results. If you use the new roll, you become @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1} for 1 round as a result of this reckless maneuver.</p>"
       },
       "video": {
         "controls": true,
@@ -256,7 +256,7 @@
       "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.a9IeKeYOVuPMcGVx"
     },
     {
-      "sort": 700000,
+      "sort": 0,
       "name": "Me First!",
       "type": "text",
       "_id": "D4GCXaqEh8eaqmJJ",

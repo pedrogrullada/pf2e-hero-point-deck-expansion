@@ -1,0 +1,1275 @@
+{
+  "name": "Hero Point Deck (Expanded Only)",
+  "_id": "c2Ty2KZsnQikY71L",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "<p>A table with only the module's expansion Hero Point cards.</p>",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "_id": "clZQn4U4i1eGrJmA",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.D4GCXaqEh8eaqmJJ]{Me First!}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.clZQn4U4i1eGrJmA"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "_id": "ZB2t0SPXADIyVKAK",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.3KJKsVFJbGeoAmwG]{If I Were You}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.ZB2t0SPXADIyVKAK"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "_id": "ZXEjQnP7kDMawKlI",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.igFvuHJg2QbKeQfq]{One More}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.ZXEjQnP7kDMawKlI"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "_id": "Q610GRrHyh0nTsKO",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.i0cBhE9Vo68nIPlF]{Baton Pass}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.Q610GRrHyh0nTsKO"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "_id": "BX8MeB8Z1cTmIZB0",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.NCQCi4oQWLv3kvAo]{Get a Hold of Yourself!}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.BX8MeB8Z1cTmIZB0"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "_id": "odXnyMlYLjJMuEIa",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.80TX1oxMlmOaRUWU]{Convenient Consumable}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.odXnyMlYLjJMuEIa"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "_id": "W969Wr1FUD5GNtwS",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.a9IeKeYOVuPMcGVx]{Crushing Critical}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.W969Wr1FUD5GNtwS"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "_id": "5C6ylLgVFKK6Q2Dk",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.zONyoexx01okt002]{Temptation of Heroics}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.5C6ylLgVFKK6Q2Dk"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "_id": "vuhPV9siZUmX3Nmv",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.YZBlyryDT6y7vYmt]{Rapid Reaction}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.vuhPV9siZUmX3Nmv"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "_id": "zhlcRdocKrAwDVpq",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.cgA7xrrb0IEnQCLv]{Always Prepared}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.zhlcRdocKrAwDVpq"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "_id": "fgr9ch6KCo0q034e",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.wdFR8w0PN7bqpWmJ]{Improvised Incantation}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.fgr9ch6KCo0q034e"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "_id": "oAaomVQCREKkvGbi",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.q86ta3UvKd6N44BS]{Advanced Strategy}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.oAaomVQCREKkvGbi"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "_id": "yUBM56CefdDatnhG",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.fTZEPNM7yUj3ZsYj]{Sliding Sweep}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.yUBM56CefdDatnhG"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "_id": "GHD1gY19kvGalsZu",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.bzDw1uZ6yibBHpPn]{Form Up!}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.GHD1gY19kvGalsZu"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "_id": "I108H7NNoIVr90Lz",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.q3wdVOY6BmVan5Yg]{Key to Victory}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.I108H7NNoIVr90Lz"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "_id": "zfPwx8iWrSnN1kmm",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.Of1MykhHbIvXVM3m]{Exploit Conceit}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.zfPwx8iWrSnN1kmm"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "_id": "zdruqaXZ2POVt3rp",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.25q59mrMaHW2kQKl]{Heroic Counterspell}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.zdruqaXZ2POVt3rp"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "_id": "adSCif1p1CsKqsGh",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.tHYKNdB57tezdHYc]{Battle Augury}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.adSCif1p1CsKqsGh"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "_id": "kraDZ4sFA94BpX5w",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.jvJaIYbGfwNpcH73]{Curse of Temporal Discounting}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.kraDZ4sFA94BpX5w"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "_id": "dkFcWYCBGnSi2K6Y",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.tnTKdNTMFTkPVm7r]{Instinctual Senses}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.dkFcWYCBGnSi2K6Y"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "_id": "nhp7oWSNfUC6aXLw",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.WcKJpistQqMRWAna]{Defensive Movement}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.nhp7oWSNfUC6aXLw"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "_id": "m9uGOkGGGO2vMba8",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.I0i2ppdrn2VwUzoq]{Expansive Area}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.m9uGOkGGGO2vMba8"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "_id": "Zx6p42DNUSjtyCAM",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.wypnEsREC16fSFZg]{Extensive Grasp}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.Zx6p42DNUSjtyCAM"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "_id": "PGw1jD9Sljau9Teq",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.6LEzmwpwFXqhYfQV]{Split Spell}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.PGw1jD9Sljau9Teq"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "_id": "2qEjtcwugXQfx5wc",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.0iFGlxYMRxKdldIc]{Charismatic Speech}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.2qEjtcwugXQfx5wc"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "_id": "j6RBd4IyZRubS6pK",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.xkAXUCIWbZSDzitQ]{Ambush}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.j6RBd4IyZRubS6pK"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "_id": "6fhlHtgjZEICkUcc",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.5WHXQlRTUiTjqeLF]{Liberating Strike}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.6fhlHtgjZEICkUcc"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "_id": "QGRhL5LRfHy2FVWy",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.8AKgivqGYuDcW20V]{Taunt}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.QGRhL5LRfHy2FVWy"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "_id": "7vfF3DKvikRfQpbY",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.dpMq2r4I1rAD32oU]{Weapon Specialist}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.7vfF3DKvikRfQpbY"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "_id": "TEgLFNdVxnLnXcPV",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.uuiRjyPcLmjCkTVE]{Pass Without Trace}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.TEgLFNdVxnLnXcPV"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "_id": "1WrcLzTqsUSBNN4a",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.rcOVZQph8XT439l0]{I Have to Toss You}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.1WrcLzTqsUSBNN4a"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "_id": "yn1d66va5QB3Ik2v",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.Bs6Tb3FZOZApqXi1]{Get Down!}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.yn1d66va5QB3Ik2v"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "_id": "6j5XJu0Onikt9Ouo",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.4XY7hkB5tDDvU0oH]{Helping Hand}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.6j5XJu0Onikt9Ouo"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "_id": "cKijFsYM7wBORiyw",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.LkY8ZvDkp87WEwGd]{Rash Rush}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.cKijFsYM7wBORiyw"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "_id": "LhNu35GCeW02mwiV",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.LzgzqXne3ASqxMV3]{Symbolic Rites}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.LhNu35GCeW02mwiV"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "_id": "0OmDJNRZGVgfHZ4q",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.Ix9oqP8A2q1lrlb5]{Fortunate Misfortune}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.0OmDJNRZGVgfHZ4q"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "_id": "iAag6JIWTBVMgU53",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.Y8pjfzoEQ7ZqHOCg]{Competitive Strike}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.iAag6JIWTBVMgU53"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "_id": "WP4Sj1XinIrAqkq4",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.04z0dmm7kSkXwI1M]{I Have a Plan}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.WP4Sj1XinIrAqkq4"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "_id": "WwPaiYh0VeBTzdmp",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.34U2bqB8efSahLZo]{Empathetic Link}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.WwPaiYh0VeBTzdmp"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "_id": "82eSEaiBfrbZ0005",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.Mihx3y0ZQUNwO3DT]{Graceful Spring}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.82eSEaiBfrbZ0005"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "_id": "nmwmaxG6QGFzX8FG",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.7IILBgUBtJ4lPIdr]{Placebo Defenses}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.nmwmaxG6QGFzX8FG"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "_id": "qbrM1oRVv5P0rc14",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.j1ullB8rI2Bwh1mn]{Selective Spell}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.qbrM1oRVv5P0rc14"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "_id": "jjvwolI9aOTXJWkE",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.BhpSsB2PAdtIFbLY]{Wild Channeling}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.jjvwolI9aOTXJWkE"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "_id": "IJDFhm5gKp9aMcIp",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.4Vhmb5HQSihNrn50]{Grappling Gambit}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.IJDFhm5gKp9aMcIp"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "_id": "J0vsjkwKSOlKmxdJ",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.kadTeAcsKIr0XlkV]{Immovable Reprisal}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.J0vsjkwKSOlKmxdJ"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "_id": "x3c0jWO0dCAN2CLf",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.MJk2jnXLLnO9fcbe]{With My Last Breath}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.x3c0jWO0dCAN2CLf"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "_id": "dtDQ5lPxttMkrtEe",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.GRfZsr8wwDTjWcOW]{Defensive Deduction}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.dtDQ5lPxttMkrtEe"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "_id": "TJv2am5GpdoQx9vD",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.Q4O4JxZIPC7ac6Nz]{Castle Ally}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.TJv2am5GpdoQx9vD"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "_id": "3hh2VYX0M5CbqVuz",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.MXOgpnzB5kqSv45t]{Improvised Impasse}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.3hh2VYX0M5CbqVuz"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "_id": "5yFo4dDsF0eKNX5E",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.lpqpclmVUtJrO3Jx]{Alacritous Activation}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.5yFo4dDsF0eKNX5E"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "_id": "udGZyzSuce19aJ3j",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.eYKbtAUFyhC7rqgU]{Perilous Patch-Up}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.udGZyzSuce19aJ3j"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "_id": "3r3T3SZ0z5q4NDDG",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.u9kZ9fLZ9krknbv5]{Don’t Forget About Me!}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!c2Ty2KZsnQikY71L.3r3T3SZ0z5q4NDDG"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "AhhBYTk3xYRMuz4T": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pf2e",
+    "systemVersion": "7.2.3"
+  },
+  "formula": "1d52",
+  "_key": "!tables!c2Ty2KZsnQikY71L"
+}
