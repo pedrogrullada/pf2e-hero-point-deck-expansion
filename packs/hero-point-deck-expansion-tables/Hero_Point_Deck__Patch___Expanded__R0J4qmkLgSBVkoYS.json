@@ -1,7 +1,7 @@
 {
   "description": "<p>A table including the module's patch for the original Hero Point Deck, in addition to the expansion.</p>",
   "displayRoll": true,
-  "formula": "1d91",
+  "formula": "1d104",
   "img": "icons/svg/d20-grey.svg",
   "name": "Hero Point Deck (Patch + Expanded)",
   "ownership": {
@@ -2105,6 +2105,318 @@
       },
       "documentUuid": null,
       "_key": "!tables.results!R0J4qmkLgSBVkoYS.7FN2jNhupAZ2bFnd"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "_id": "URb3KVbmC4vSNa3X",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.Mihx3y0ZQUNwO3DT]{Graceful Spring}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.URb3KVbmC4vSNa3X"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "_id": "mQExSjqMyvcBtyga",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.7IILBgUBtJ4lPIdr]{Placebo Defenses}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.mQExSjqMyvcBtyga"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "_id": "BcirM86GYz4lx9k3",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.j1ullB8rI2Bwh1mn]{Selective Spell}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.BcirM86GYz4lx9k3"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "_id": "gecL2oVtE95JzYLr",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.BhpSsB2PAdtIFbLY]{Wild Channeling}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.gecL2oVtE95JzYLr"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "_id": "jho0w4Va4XT3jnJi",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.4Vhmb5HQSihNrn50]{Grappling Gambit}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.jho0w4Va4XT3jnJi"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "_id": "RWReFoQhDtb2cCuo",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.kadTeAcsKIr0XlkV]{Immovable Reprisal}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.RWReFoQhDtb2cCuo"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "_id": "eWlufMEGpNsc7giR",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.MJk2jnXLLnO9fcbe]{With My Last Breath}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.eWlufMEGpNsc7giR"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "_id": "U3SW9axtJFewaiAZ",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.GRfZsr8wwDTjWcOW]{Defensive Deduction}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.U3SW9axtJFewaiAZ"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "_id": "TOyOD5ZXd63o405S",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.Q4O4JxZIPC7ac6Nz]{Castle Ally}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.TOyOD5ZXd63o405S"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        101,
+        101
+      ],
+      "_id": "8eglj1Cb1otowTbG",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.MXOgpnzB5kqSv45t]{Improvised Impasse}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.8eglj1Cb1otowTbG"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        102,
+        102
+      ],
+      "_id": "2J1lpjgv4tY8AAgX",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.lpqpclmVUtJrO3Jx]{Alacritous Activation}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.2J1lpjgv4tY8AAgX"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        103,
+        103
+      ],
+      "_id": "zwZCXFhVLbrjjfB4",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.eYKbtAUFyhC7rqgU]{Perilous Patch-Up}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.zwZCXFhVLbrjjfB4"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        104,
+        104
+      ],
+      "_id": "thrOh2HfxYB9liFP",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.u9kZ9fLZ9krknbv5]{Don’t Forget About Me!}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!R0J4qmkLgSBVkoYS.thrOh2HfxYB9liFP"
     }
   ],
   "_stats": {

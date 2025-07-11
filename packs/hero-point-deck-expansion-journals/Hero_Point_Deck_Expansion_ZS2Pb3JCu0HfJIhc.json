@@ -49,7 +49,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play when you succeed a saving throw that an ally just failed.</p><hr /><p>You daydream what you would do in your ally's predicament, and that dream becomes reality! You swap your natural result on the d20 with your ally's, potentially changing both of your results.</p>"
+        "content": "<p>Play when you succeed a saving throw that an ally just failed.</p><hr /><p>You daydream what you would do in your ally's predicament, only to realize that was no dream at all! You swap your natural result on the d20 with your ally's, potentially changing both of your results.</p>"
       },
       "video": {
         "controls": true,
@@ -916,7 +916,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play at the start of your turn in an encounter where you @UUID[Compendium.pf2e.actionspf2e.Item.IE2nThCmoyhQA0Jn]{Avoided Notice}.</p><hr /><p>You are @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Quickened} until the end of your turn. You can use the extra action only to Hide, Sneak, or Take Cover.</p>"
+        "content": "<p>Play at the start of your first turn of an encounter where you @UUID[Compendium.pf2e.actionspf2e.Item.IE2nThCmoyhQA0Jn]{Avoided Notice}.</p><hr /><p>You are @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Quickened} until the end of your turn. You can use the extra action only to Hide, Sneak, or Take Cover.</p>"
       },
       "video": {
         "controls": true,
@@ -1406,6 +1406,474 @@
         "systemVersion": "7.2.3"
       },
       "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.04z0dmm7kSkXwI1M"
+    },
+    {
+      "sort": 4500000,
+      "name": "Immovable Reprisal",
+      "type": "text",
+      "_id": "kadTeAcsKIr0XlkV",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when you would be forcibly moved or knocked @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} by an enemy.</p><hr /><p>You are not moved or knocked prone by the triggering effect. The enemy is instead pushed 10 feet away from you. You can Stride after them, but you must move the same distance and in the same direction.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.kadTeAcsKIr0XlkV"
+    },
+    {
+      "sort": 4100000,
+      "name": "Placebo Defenses",
+      "type": "text",
+      "_id": "7IILBgUBtJ4lPIdr",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Plan when you would roll a Fortitude or Reflex save</p><hr /><p>As long as you believe this cannot harm you, it simply can't. You roll a Will save instead against the triggering effect, and if it's a damaging effect, you can choose to take mental damage instead.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.7IILBgUBtJ4lPIdr"
+    },
+    {
+      "sort": 3950000,
+      "name": "Graceful Spring",
+      "type": "text",
+      "_id": "Mihx3y0ZQUNwO3DT",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when you start your turn @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}</p><hr /><p>You stand up. This movement doesn't trigger reactions.</p><hr /><p><strong>Special</strong> If you have @UUID[Compendium.pf2e.feats-srd.Item.gBSPbQRXdagZTUwY]{Kip Up}, you additionally Step or Interact to draw or pick up an item.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.Mihx3y0ZQUNwO3DT"
+    },
+    {
+      "sort": 4200000,
+      "name": "Selective Spell",
+      "type": "text",
+      "_id": "j1ullB8rI2Bwh1mn",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when you cast a spell with an area of effect and no duration.</p><hr /><p>You manipulate your spell's energy to avoid certain targets. Increase the number of actions required to Cast the Spell by one. You designate up to five creatures in the area to not be targeted by the spell. This is a spellshape effect.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.j1ullB8rI2Bwh1mn"
+    },
+    {
+      "sort": 4300000,
+      "name": "Wild Channeling",
+      "type": "text",
+      "_id": "BhpSsB2PAdtIFbLY",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play at the start of your turn.</p><hr /><p>Before the end of your turn, you can Cast a Spell without spending a spell slot. The spell must be in your repertoire or be one you prepared today, and it can't be of your highest spell rank. After doing so, you trigger a @UUID[Compendium.pf2e.rollable-tables.RollTable.N0pDFNCffTe2Du39]{Wellspring Surge} and become @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1} for 1 round.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.BhpSsB2PAdtIFbLY"
+    },
+    {
+      "sort": 4400000,
+      "name": "Grappling Gambit",
+      "type": "text",
+      "_id": "4Vhmb5HQSihNrn50",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when you become @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} or @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained} by an enemy.</p><hr /><p>The enemy imposing the triggering condition becomes grabbed by you, even if you have no free hands. If they Escape your grab, you also lose the triggering condition.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.4Vhmb5HQSihNrn50"
+    },
+    {
+      "sort": 4600000,
+      "name": "With My Last Breath",
+      "type": "text",
+      "_id": "MJk2jnXLLnO9fcbe",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when you are reduced to 0 Hit Points by an enemy.</p><hr /><p>In a last ditch effort, you make a Strike against the triggering enemy.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.MJk2jnXLLnO9fcbe"
+    },
+    {
+      "sort": 4700000,
+      "name": "Defensive Deduction",
+      "type": "text",
+      "_id": "GRfZsr8wwDTjWcOW",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when an attack roll misses against a creature or when they succeed on a Reflex or Fortitude save.</p><hr /><p>You study the enemy's movements, gaining insight into its defensive tactics. You gain information as if you had succeeded at a @UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge} check, however you can only gain information about the enemy's physical capabilities.</p><p>The scope of physical capabilities is at the GM's discretion, but learning about one of the triggering defenses would be an appropriate piece of information, as would be learning if they have a notable physical offensive ability, such as @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.W7SbTykXrNwxDzJc]{Reactive Strike}.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.GRfZsr8wwDTjWcOW"
+    },
+    {
+      "sort": 4800000,
+      "name": "Castle Ally",
+      "type": "text",
+      "_id": "Q4O4JxZIPC7ac6Nz",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play during your turn.</p><hr /><p>You @UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{Reposition} an ally, automatically succeeding at this check instead of rolling, and you Step into their previous space.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.Q4O4JxZIPC7ac6Nz"
+    },
+    {
+      "sort": 4900000,
+      "name": "Improvised Impasse",
+      "type": "text",
+      "_id": "MXOgpnzB5kqSv45t",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play at any time, as long as you have several items in your inventory.</p><hr /><p>You turn your backpack inside out in front of you, or otherwise scatter your mundane belongings on the floor. The area in a @Template[cone|distance:15] becomes difficult terrain.</p><hr /><p><strong>Special</strong> At the GM's discretion, you may create this difficult terrain by using the environment in some way, such as knocking down a stack of crates, or dislodging stones from a cliff face.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.MXOgpnzB5kqSv45t"
+    },
+    {
+      "sort": 5000000,
+      "name": "Alacritous Activation",
+      "type": "text",
+      "_id": "lpqpclmVUtJrO3Jx",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play during your turn, or when the trigger for an item's activation is met.</p><hr /><p>For this activation, reduce the number of actions required by 1. If the activation is a reaction, you can perform it as a free action instead.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.lpqpclmVUtJrO3Jx"
+    },
+    {
+      "sort": 5100000,
+      "name": "Perilous Patch-Up",
+      "type": "text",
+      "_id": "eYKbtAUFyhC7rqgU",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play during your turn.</p><hr /><p>You use @UUID[Compendium.pf2e.feats-srd.Item.wYerMk6F1RZb0Fwt]{Battle Medicine} even if you don't have the feat or a @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]{Healer's Toolkit}. If you're untrained in Medicine, your proficiency bonus is equal to your level for this attempt, as you desperately draw from your previous adventuring experiences. You take a –1 circumstance penalty if you don't have a healer's toolkit.</p><p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-effects.Item.jZd0CVxpcW2OZLs0]{Effect: Perilous Patch-Up}</p><hr /><p><strong>Special</strong> If you already have Battle Medicine, you can play this card even if the target would be immune to your Battle Medicine due to having already used it on them.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.eYKbtAUFyhC7rqgU"
+    },
+    {
+      "sort": 5200000,
+      "name": "Don’t Forget About Me!",
+      "type": "text",
+      "_id": "u9kZ9fLZ9krknbv5",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play while you have your shield raised and an ally would take physical damage from an attack.</p><hr /><p>You Stride towards that ally. If you end that movement adjacent to them, you @UUID[Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8]{Shield Block} the triggering attack (even if you don't have the feat), except the shield reduces the damage your ally takes instead of yours.</p><hr /><p><strong>Special</strong> You can play this card with the @UUID[Compendium.pf2e.spells-srd.Item.TVKNbcgTee19PXZR]{Shield} spell instead, in which case the triggering damage doesn't need to be physical. After using Shield Block in this way, you become immune to <em>shield</em> as normal.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pf2e",
+        "systemVersion": "7.2.3"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.u9kZ9fLZ9krknbv5"
     }
   ],
   "folder": null,
