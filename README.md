@@ -1,5 +1,5 @@
 # PF2e Hero Point Deck Unofficial Expansion
-A simple compendium module containing a journal with several unofficial cards<sup>1</sup> to expand upon the original Hero Point Deck, as well as rollable tables incorporating these new cards with it, and tweaks for some of its cards.
+A simple compendium module containing a journal with several unofficial cards<sup>1</sup> to expand upon the original Hero Point Deck, as well as rollable tables incorporating these new cards with it, and tweaks for some of the original deck.
 ## What is the Hero Point Deck?
 It is a [deck of cards made by Paizo](https://paizo.com/products/btq024ut) to use in conjunction with Hero Points. Each card has a trigger and an effect that you must spend a Hero Point to use, and when you do, you discard both the card and the Hero Point. In that sense, you can think of the card as representing your Hero Point. You can still spend Hero Points for their normal reroll and death-prevention uses.
 ## What does the expansion contain?
