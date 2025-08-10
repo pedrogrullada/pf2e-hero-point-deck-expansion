@@ -10,7 +10,7 @@
     "verified": "13"
   },
   "description": "A FoundryVTT compendium module with more cards for the Hero Point Deck for Pathfinder Second Edition.",
-  "download": "https://github.com/pedrogrullada/pf2e-hero-point-deck-expansion/releases/download/0.2.3/module.zip",
+  "download": "https://github.com/pedrogrullada/pf2e-hero-point-deck-expansion/releases/download/0.2.4/module.zip",
   "esmodules": [
     "scripts/popup.mjs"
   ],
@@ -18,7 +18,7 @@
   "manifest": "https://github.com/pedrogrullada/pf2e-hero-point-deck-expansion/releases/latest/download/module.json",
   "packFolders": [
     {
-      "color": null,
+      "color": "#752529",
       "folders": [],
       "name": "Hero Point Deck Expansion",
       "packs": [
@@ -31,6 +31,7 @@
   ],
   "packs": [
     {
+      "banner": "modules/pf2e-hero-point-deck-expansion/assets/compendium-banner.webp",
       "label": "Hero Deck Expanded Journals",
       "name": "hero-point-deck-expansion-journals",
       "ownership": {
@@ -42,6 +43,7 @@
       "type": "JournalEntry"
     },
     {
+      "banner": "modules/pf2e-hero-point-deck-expansion/assets/compendium-banner.webp",
       "label": "Hero Deck Expanded Tables",
       "name": "hero-point-deck-expansion-tables",
       "ownership": {
@@ -53,6 +55,7 @@
       "type": "RollTable"
     },
     {
+      "banner": "modules/pf2e-hero-point-deck-expansion/assets/compendium-banner.webp",
       "label": "Hero Deck Expanded Effects",
       "name": "hero-point-deck-expansion-effects",
       "ownership": {
@@ -87,5 +90,5 @@
   },
   "title": "PF2e Hero Point Deck Unofficial Expansion",
   "url": "https://github.com/pedrogrullada/pf2e-hero-point-deck-expansion",
-  "version": "0.2.3"
+  "version": "0.2.4"
 }
