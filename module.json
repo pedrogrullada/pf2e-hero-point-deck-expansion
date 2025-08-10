@@ -10,7 +10,7 @@
     "verified": "13"
   },
   "description": "A FoundryVTT compendium module with more cards for the Hero Point Deck for Pathfinder Second Edition.",
-  "download": "https://github.com/pedrogrullada/pf2e-hero-point-deck-expansion/releases/download/0.2.2/module.zip",
+  "download": "https://github.com/pedrogrullada/pf2e-hero-point-deck-expansion/releases/download/0.2.3/module.zip",
   "esmodules": [
     "scripts/popup.mjs"
   ],
@@ -87,5 +87,5 @@
   },
   "title": "PF2e Hero Point Deck Unofficial Expansion",
   "url": "https://github.com/pedrogrullada/pf2e-hero-point-deck-expansion",
-  "version": "0.2.2"
+  "version": "0.2.3"
 }
