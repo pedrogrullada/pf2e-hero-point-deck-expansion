@@ -71,6 +71,18 @@
         "id": "pf2e",
         "type": "system"
       }
+    ],
+    "recommends": [
+      {
+        "id": "pf2e-toolbelt",
+        "manifest": "https://raw.githubusercontent.com/reonZ/pf2e-toolbelt/master/module.json",
+        "name": "PF2e Toolbelt",
+        "reason": "This module's Hero Actions feature integrates the Hero Point Deck into the character sheet, making it much easier to use.",
+        "type": "module",
+        "compatibility": {
+          "minimum": "3.8.0"
+        }
+      }
     ]
   },
   "title": "PF2e Hero Point Deck Unofficial Expansion",
