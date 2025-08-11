@@ -12,7 +12,7 @@ Once you have enabled the module, you will see a compendium folder named "Hero P
 
 While rollable tables are sufficient to draw random cards, I highly recommend you install and use [PF2e Toolbelt](https://foundryvtt.com/packages/pf2e-toolbelt)'s [Hero Actions](https://github.com/reonZ/pf2e-toolbelt/wiki/Hero-Actions) feature. The module will allow your players to use, discard, and even trade cards amongst each other, all from their own character sheets! All you need to do is go to PF2e Toolbelt's settings and paste the link of the table you want to draw cards from. See picture below for reference and follow the the instructions in PF2e Toolbelt's settings.
 
-![](./assets/toolbelt-setting.webp?)
+![](./assets/toolbelt-setting.webp)
 ## A word on Kineticist
 Kineticist is mechanically unique, and many cards do not take these mechanics into account. Here are some quick and dirty rules to allow kineticists to use these cards. For the purposes of using or triggering Hero Point Card:
 - A kineticist can treat an Elemental Blast as a Strike. If needed, they count as an unarmed attack in the brawling group.
