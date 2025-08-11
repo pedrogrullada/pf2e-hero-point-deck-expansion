@@ -14,7 +14,9 @@ While rollable tables are sufficient to draw random cards, I highly recommend yo
 
 ![](./assets/toolbelt-setting.webp)
 ## A word on Kineticist
-Kineticist is mechanically unique, and many cards do not take these mechanics into account. Here are some quick and dirty rules to allow kineticists to use these cards. For the purposes of using or triggering Hero Point Card:
+Kineticist is mechanically unique, and many cards do not take these mechanics into account. Here are some quick and dirty rules to allow kineticists to use these cards.
+
+For the purposes of using or triggering these cards:
 - A kineticist can treat an Elemental Blast as a Strike. If needed, they count as an unarmed attack in the brawling group.
 - A 2-action impulse (including Elemental Blast) can be treated as a cantrip.
 
