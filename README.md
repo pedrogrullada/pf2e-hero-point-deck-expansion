@@ -16,11 +16,11 @@ While rollable tables are sufficient to draw random cards, I highly recommend yo
 ## A word on Kineticist
 Kineticist is mechanically unique, and many cards do not take these mechanics into account. Here are some quick and dirty rules to allow kineticists to use these cards.
 
-For the purposes of using or triggering these cards:
-- A kineticist can treat an Elemental Blast as a Strike. If needed, they count as an unarmed attack in the brawling group.
-- A 2-action impulse (including Elemental Blast) can be treated as a cantrip.
+For the purposes of triggering or interacting with these cards:
+- A kineticist can treat an elemental blast as a Strike. If needed, they count as an unarmed attack in the brawling group.
+- A 2-action impulse (including elemental blast) can be treated as a cantrip.
 
-As a GM, you should feel free to improvise and allow a card to work with kineticist if it feels appropriate.
+As a GM, you should feel free to improvise and allow a card to work with kineticist impulses if it feels appropriate.
 # Contributing
 If you find any errors feel free to [open an issue](https://github.com/TikaelSol/pf2e-playtest-data/issues) and I'll get to it as soon as possible.
 
