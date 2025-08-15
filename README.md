@@ -22,7 +22,7 @@ For the purposes of triggering or interacting with these cards:
 
 As a GM, you should feel free to improvise and allow a card to work with kineticist impulses if it feels appropriate.
 # Contributing
-If you find any errors feel free to [open an issue](https://github.com/TikaelSol/pf2e-playtest-data/issues) and I'll get to it as soon as possible.
+If you find any errors feel free to [open an issue](https://github.com/TikaelSol/pf2e-playtest-data/issues) and I'll get to it as soon as possible. You can also open issues about card or patch ideas you're willing to share, and I will consider them.
 
 If you want to make a data contribution, follow these steps.
 1. Fork this repository and clone it.
