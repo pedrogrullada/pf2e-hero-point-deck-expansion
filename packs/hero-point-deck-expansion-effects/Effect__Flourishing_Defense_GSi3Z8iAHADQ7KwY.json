@@ -1,0 +1,105 @@
+{
+  "name": "Effect: Flourishing Defense",
+  "type": "effect",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.942,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>Granted by @UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.6tGvSQKkthuBp5Ek]{Flourishing Defense}</p><p>Your armor's item bonus increases by 1, or your shield's Hardness increases by 5.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "PF2e Hero Point Deck Expansion",
+      "authors": "",
+      "license": "OGL",
+      "remaster": true
+    },
+    "rules": [
+      {
+        "key": "ChoiceSet",
+        "choices": {
+          "ownedItems": true,
+          "predicate": [
+            "item:equipped",
+            {
+              "or": [
+                "item:type:armor",
+                "item:type:shield"
+              ]
+            }
+          ],
+          "types": [
+            "physical"
+          ]
+        },
+        "flag": "flourishingDefense"
+      },
+      {
+        "key": "ItemAlteration",
+        "itemId": "{item|flags.pf2e.rulesSelections.flourishingDefense}",
+        "property": "ac-bonus",
+        "predicate": [
+          "item:type:armor"
+        ],
+        "value": 1,
+        "mode": "add"
+      },
+      {
+        "key": "ItemAlteration",
+        "itemId": "{item|flags.pf2e.rulesSelections.flourishingDefense}",
+        "property": "hardness",
+        "predicate": [
+          "item:type:shield"
+        ],
+        "value": 5,
+        "mode": "add"
+      }
+    ],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": []
+    },
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": 1,
+      "unit": "minutes",
+      "expiry": "turn-start",
+      "sustained": false
+    },
+    "tokenIcon": {
+      "show": true
+    },
+    "unidentified": false,
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "badge": null,
+    "fromSpell": false,
+    "context": null
+  },
+  "_id": "GSi3Z8iAHADQ7KwY",
+  "img": "icons/sundries/gaming/playing-cards-brown.webp",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "AhhBYTk3xYRMuz4T": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.347",
+    "systemId": "pf2e",
+    "systemVersion": "7.3.1"
+  },
+  "_key": "!items!GSi3Z8iAHADQ7KwY"
+}

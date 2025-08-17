@@ -1,7 +1,7 @@
 {
   "description": "<p>A table including the original Hero Point Deck, in addition to an expansion with several new cards.</p>",
   "displayRoll": true,
-  "formula": "1d104",
+  "formula": "1d107",
   "img": "icons/svg/d20-grey.svg",
   "name": "Hero Point Deck (Original + Expanded)",
   "ownership": {
@@ -2419,12 +2419,84 @@
       },
       "documentUuid": null,
       "_key": "!tables.results!7mXdDJZM666rQfZl.Qnu8PfvIRa9iWC60"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        105,
+        105
+      ],
+      "_id": "ddWEZyDOB70vgSaL",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.z26KMVOHz6fBbGj4]{Glimpse of Failure}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.347",
+        "systemId": "pf2e",
+        "systemVersion": "7.3.1"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!7mXdDJZM666rQfZl.ddWEZyDOB70vgSaL"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        106,
+        106
+      ],
+      "_id": "H4FquiuXByYC1V97",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.6tGvSQKkthuBp5Ek]{Flourishing Defense}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.347",
+        "systemId": "pf2e",
+        "systemVersion": "7.3.1"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!7mXdDJZM666rQfZl.H4FquiuXByYC1V97"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        107,
+        107
+      ],
+      "_id": "QlmzG8WKv7ZpIhyH",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "description": "<p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-journals.JournalEntry.ZS2Pb3JCu0HfJIhc.JournalEntryPage.y2ZzXBLo20jBuXDW]{Revel in Arrogance}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.347",
+        "systemId": "pf2e",
+        "systemVersion": "7.3.1"
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!7mXdDJZM666rQfZl.QlmzG8WKv7ZpIhyH"
     }
   ],
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "13.346",
+    "coreVersion": "13.347",
     "systemId": "pf2e",
     "systemVersion": "6.7.1",
     "exportSource": null

@@ -844,7 +844,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play when you Cast a Spell with a saving throw and a specific number of targets on your turn.</p><hr /><p>You dangerously harness more energy into your spell. You can increase the number of actions required for the spell by one. If you do, you add one additional target, but their degree of success against the spell improves by one step. This is a spellshape effect.</p>"
+        "content": "<p>Play when you Cast a Spell with a saving throw and a specific number of targets on your turn.</p><hr /><p>You dangerously split your spell's energy. You can increase the number of actions required to Cast the Spell by one. If you do, you add one additional target to it. If the additional target rolls a critical failure, it becomes a failure instead. This is a spellshape effect.</p>"
       },
       "video": {
         "controls": true,
@@ -859,7 +859,7 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
-        "coreVersion": "13.346",
+        "coreVersion": "13.347",
         "systemId": "pf2e",
         "systemVersion": "6.7.1",
         "exportSource": null
@@ -1874,6 +1874,114 @@
         "systemVersion": "7.2.3"
       },
       "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.u9kZ9fLZ9krknbv5"
+    },
+    {
+      "sort": 5300000,
+      "name": "Glimpse of Failure",
+      "type": "text",
+      "_id": "z26KMVOHz6fBbGj4",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when you fail or critically fail a check.</p><hr /><p>A vision of your downfall flashes before your eyes, allowing you to right your destiny at the last second. You gain a +1 status bonus to the triggering check retroactively, potentially changing its outcome.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.347",
+        "systemId": "pf2e",
+        "systemVersion": "7.3.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.z26KMVOHz6fBbGj4"
+    },
+    {
+      "sort": 5400000,
+      "name": "Flourishing Defense",
+      "type": "text",
+      "_id": "6tGvSQKkthuBp5Ek",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play at the start of your turn while wearing armor or wielding a shield.</p><hr /><p>You skillfully deflect and turn away from attacks, making the most out of your defensive tools. For 1 minute or until you are critically hit, your armor's item bonus to AC increases by 1, or the Hardness of your shield increases by 5.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.347",
+        "systemId": "pf2e",
+        "systemVersion": "7.3.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.6tGvSQKkthuBp5Ek"
+    },
+    {
+      "sort": 5500000,
+      "name": "Revel in Arrogance",
+      "type": "text",
+      "_id": "y2ZzXBLo20jBuXDW",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Play when you critically succeed on saving throw forced by a creature, or a creature critically fails an attack roll against you.</p><hr /><p>You @UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{Demoralize} the triggering creature. For this attempt, you ignore the usual penalty due to the target not understanding you, and its @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened} value does not decrease until the end of its next turn. If you are untrained in Intimidation, you become trained for this attempt.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "AhhBYTk3xYRMuz4T": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.347",
+        "systemId": "pf2e",
+        "systemVersion": "7.3.1"
+      },
+      "_key": "!journal.pages!ZS2Pb3JCu0HfJIhc.y2ZzXBLo20jBuXDW"
     }
   ],
   "folder": null,
