@@ -1960,7 +1960,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Play when you critically succeed on saving throw forced by a creature, or a creature critically fails an attack roll against you.</p><hr /><p>You @UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{Demoralize} the triggering creature. For this attempt, you ignore the usual penalty due to the target not understanding you, and its @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened} value does not decrease until the end of its next turn. If you are untrained in Intimidation, you become trained for this attempt.</p>"
+        "content": "<p>Play when you critically succeed on saving throw forced by a creature, or a creature critically fails an attack roll against you.</p><hr /><p>You @UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{Demoralize} the triggering creature. For this attempt, you ignore the usual penalty due to the target not understanding you, and its @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened} value does not decrease until the end of its next turn. If you are untrained in Intimidation, you become trained for this attempt.</p><p>@UUID[Compendium.pf2e-hero-point-deck-expansion.hero-point-deck-expansion-effects.Item.ALm7s39VnA1O0IRj]{Effect: Revel in Arrogance}</p>"
       },
       "video": {
         "controls": true,
